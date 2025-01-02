@@ -257,11 +257,5 @@
     },
     "done": true
   },
-  "skills:bow_drawtime": {
-    "criteria": {
-      "requirement": "2025-01-02 03:00:11 +0000"
-    },
-    "done": true
-  },
   "DataVersion": 3465
 }
