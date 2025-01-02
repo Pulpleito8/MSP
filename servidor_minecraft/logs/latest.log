@@ -323,3 +323,94 @@
 [02:52:09] [Server thread/ERROR]: Display entityNot a string
 [02:52:09] [Server thread/ERROR]: Display entityNot a string
 [02:52:09] [Server thread/ERROR]: Display entityNot a string
+[02:53:32] [Server thread/INFO]: Named entity bvy['Harbinger'/8985, l='ServerLevel[world]', x=96.43, y=103.39, z=296.57] died: Harbinger was shot by TioSkrollex using [The Sting]
+[02:53:34] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/8395, l='ServerLevel[world]', x=139.88, y=92.00, z=337.87] died: Abyssal Spider suffocated in a wall
+[02:54:02] [Server thread/INFO]: Named entity bvn['Voidling'/9052, l='ServerLevel[world]', x=79.16, y=118.00, z=293.39] died: Voidling was slain by TioSkrollex using [Blademaster's Voidblade of Evisceration]
+[02:54:25] [Server thread/INFO]: Named entity bvy['Harbinger'/9093, l='ServerLevel[world]', x=82.42, y=115.62, z=310.17] died: Harbinger was shot by Danielcf37 using [Watcher's Bow of Healing]
+[02:54:28] [Server thread/INFO]: Named entity bvy['Harbinger'/9108, l='ServerLevel[world]', x=70.66, y=107.44, z=306.83] died: Harbinger withered away whilst fighting TioSkrollex
+[02:54:43] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/9114, l='ServerLevel[world]', x=96.70, y=120.10, z=182.30] died: Abyssal Spider suffocated in a wall
+[02:54:45] [Server thread/INFO]: Named entity bvy['Harbinger'/9158, l='ServerLevel[world]', x=76.43, y=110.30, z=302.85] died: Harbinger was shot by Danielcf37 using [Watcher's Bow of Healing]
+[02:54:55] [Server thread/INFO]: Named entity bvy['Harbinger'/9167, l='ServerLevel[world]', x=52.66, y=106.55, z=324.89] died: Harbinger was shot by TioSkrollex using [The Sting]
+[02:54:57] [Server thread/INFO]: Named entity bwv['Void Scourge'/9135, l='ServerLevel[world]', x=70.24, y=107.00, z=318.74] died: Void Scourge was killed whilst fighting Danielcf37
+[02:55:03] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/9126, l='ServerLevel[world]', x=54.44, y=100.00, z=316.69] died: Abyssal Spider was shot by Wraith
+[02:55:10] [Server thread/INFO]: Named entity bwo['Wraith'/9224, l='ServerLevel[world]', x=56.00, y=98.00, z=318.30] died: Wraith was shot by Wraith
+[02:55:12] [Server thread/INFO]: Named entity bvy['Harbinger'/9234, l='ServerLevel[world]', x=74.26, y=108.74, z=311.42] died: Harbinger was shot by TioSkrollex using [The Sting]
+[02:55:16] [Server thread/INFO]: Named entity bwo['Wraith'/9097, l='ServerLevel[world]', x=54.31, y=93.00, z=309.23] died: Wraith was shot by Wraith
+[02:55:17] [Server thread/INFO]: Named entity bvy['Harbinger'/9267, l='ServerLevel[world]', x=40.87, y=-188.48, z=319.19] died: Harbinger was killed whilst fighting Danielcf37
+[02:55:19] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=61, y=108, z=316} gu{x=62, y=106, z=316}
+[02:55:21] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/9219, l='ServerLevel[world]', x=63.20, y=103.78, z=312.30] died: Abyssal Spider was killed whilst fighting Danielcf37
+[02:55:24] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/9136, l='ServerLevel[world]', x=58.32, y=98.17, z=307.99] died: Abyssal Spider withered away
+[02:55:26] [Server thread/INFO]: Named entity bvy['Harbinger'/9288, l='ServerLevel[world]', x=77.57, y=-191.33, z=303.94] died: Harbinger was killed whilst fighting Danielcf37
+[02:55:28] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/9220, l='ServerLevel[world]', x=64.47, y=102.00, z=313.42] died: Abyssal Spider was shot by Danielcf37 using [Watcher's Bow of Healing]
+[02:55:29] [Server thread/INFO]: Named entity bwo['Wraith'/9223, l='ServerLevel[world]', x=63.18, y=96.00, z=309.70] died: Wraith was shot by Danielcf37 using [Watcher's Bow of Healing]
+[02:55:32] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/9138, l='ServerLevel[world]', x=63.07, y=105.75, z=313.08] died: Abyssal Spider was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[02:55:36] [Server thread/INFO]: Named entity bvy['Harbinger'/9303, l='ServerLevel[world]', x=47.08, y=-194.89, z=321.49] died: Harbinger was killed
+[02:55:39] [Server thread/INFO]: Named entity bvy['Harbinger'/9328, l='ServerLevel[world]', x=77.57, y=-189.56, z=303.43] died: Harbinger was killed whilst fighting Danielcf37
+[02:55:47] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=64, y=107, z=318} gu{x=64, y=106, z=317}
+[02:55:59] [Server thread/INFO]: Named entity bvy['Harbinger'/9370, l='ServerLevel[world]', x=37.78, y=-194.34, z=314.00] died: Harbinger was killed whilst fighting TioSkrollex
+[02:56:00] [Server thread/INFO]: Named entity bvy['Harbinger'/9376, l='ServerLevel[world]', x=40.82, y=-196.20, z=322.90] died: Harbinger was killed whilst fighting TioSkrollex
+[02:56:09] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/9372, l='ServerLevel[world]', x=80.50, y=143.00, z=284.50] died: Abyssal Spider suffocated in a wall
+[02:56:09] [Server thread/INFO]: Named entity bvy['Harbinger'/9365, l='ServerLevel[world]', x=75.68, y=-187.45, z=324.60] died: Harbinger was killed whilst fighting TioSkrollex
+[02:56:11] [Server thread/INFO]: Named entity bwv['Abyssal Zombie'/9120, l='ServerLevel[world]', x=53.72, y=98.00, z=318.57] died: Abyssal Zombie was doomed to fall by Danielcf37 using [Watcher's Bow of Healing]
+[02:56:11] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/9137, l='ServerLevel[world]', x=56.08, y=95.00, z=309.99] died: Abyssal Spider fell from a high place
+[02:56:13] [Server thread/INFO]: Named entity bvy['Harbinger'/9409, l='ServerLevel[world]', x=45.90, y=-193.06, z=327.51] died: Harbinger was killed whilst fighting Danielcf37
+[02:56:15] [Server thread/INFO]: Named entity bwo['Wraith'/9316, l='ServerLevel[world]', x=63.70, y=97.00, z=319.26] died: Wraith was shot by TioSkrollex using [The Sting]
+[02:56:18] [Server thread/INFO]: Named entity bwo['Wraith'/9390, l='ServerLevel[world]', x=60.70, y=94.00, z=319.30] died: Wraith was shot by TioSkrollex using [The Sting]
+[02:56:19] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/9295, l='ServerLevel[world]', x=65.70, y=100.88, z=320.70] died: Abyssal Spider was slain by TioSkrollex using [Blademaster's Voidblade of Evisceration]
+[02:56:21] [Server thread/INFO]: Named entity bwo['Wraith'/9134, l='ServerLevel[world]', x=64.06, y=96.00, z=319.30] died: Wraith was shot by TioSkrollex using [The Sting]
+[02:56:23] [Server thread/INFO]: Named entity bvy['Harbinger'/9455, l='ServerLevel[world]', x=49.14, y=104.19, z=318.19] died: Harbinger withered away whilst fighting TioSkrollex
+[02:56:33] [Server thread/INFO]: Named entity bwo['Wraith'/9497, l='ServerLevel[world]', x=59.91, y=93.00, z=320.59] died: Wraith was burnt to a crisp whilst fighting TioSkrollex
+[02:56:34] [Server thread/INFO]: Named entity bvy['Harbinger'/9479, l='ServerLevel[world]', x=57.57, y=108.98, z=316.95] died: Harbinger was shot by Danielcf37 using [Watcher's Bow of Healing]
+[02:56:38] [Server thread/INFO]: Named entity bwv['Void Scourge'/9473, l='ServerLevel[world]', x=50.30, y=95.00, z=315.30] died: Void Scourge was slain by TioSkrollex using [Blademaster's Voidblade of Evisceration]
+[02:56:39] [Server thread/INFO]: Named entity bwo['Wraith'/9498, l='ServerLevel[world]', x=50.69, y=96.00, z=316.96] died: Wraith was slain by TioSkrollex using [Blademaster's Voidblade of Evisceration]
+[02:56:41] [Server thread/INFO]: Named entity bvy['Harbinger'/9520, l='ServerLevel[world]', x=66.57, y=-191.48, z=327.35] died: Harbinger was killed whilst fighting Danielcf37
+[02:56:43] [Server thread/INFO]: Named entity bwv['Void Scourge'/9474, l='ServerLevel[world]', x=51.30, y=94.04, z=312.16] died: Void Scourge was slain by TioSkrollex using [Blademaster's Voidblade of Evisceration]
+[02:57:03] [Server thread/INFO]: Named entity bvy['Harbinger'/9575, l='ServerLevel[world]', x=63.70, y=101.96, z=324.10] died: Harbinger withered away whilst fighting TioSkrollex
+[02:57:09] [Server thread/INFO]: Named entity bvy['Harbinger'/9549, l='ServerLevel[world]', x=38.50, y=-188.88, z=310.02] died: Harbinger was killed
+[02:57:09] [Server thread/INFO]: Named entity bvy['Harbinger'/9554, l='ServerLevel[world]', x=38.55, y=-192.00, z=315.38] died: Harbinger was killed
+[02:57:18] [Server thread/INFO]: Named entity bvy['Harbinger'/9601, l='ServerLevel[world]', x=78.06, y=101.06, z=307.55] died: Harbinger was shot by TioSkrollex using [The Sting]
+[02:57:23] [Server thread/INFO]: Named entity bvy['Harbinger'/9614, l='ServerLevel[world]', x=73.60, y=103.73, z=305.93] died: Harbinger was shot by TioSkrollex using [The Sting]
+[02:57:24] [Server thread/INFO]: Named entity bvy['Harbinger'/9597, l='ServerLevel[world]', x=36.74, y=102.60, z=307.42] died: Harbinger was shot by Danielcf37 using [Watcher's Bow of Healing]
+[02:57:27] [Server thread/INFO]: Named entity bvy['Harbinger'/9621, l='ServerLevel[world]', x=33.48, y=100.98, z=314.55] died: Harbinger was shot by Danielcf37 using [Watcher's Bow of Healing]
+[02:57:28] [Server thread/INFO]: Named entity bvy['Harbinger'/9638, l='ServerLevel[world]', x=73.57, y=107.68, z=299.88] died: Harbinger was shot by TioSkrollex using [The Sting]
+[02:57:32] [Server thread/INFO]: Named entity bvy['Harbinger'/9644, l='ServerLevel[world]', x=79.61, y=100.83, z=306.04] died: Harbinger withered away whilst fighting TioSkrollex
+[02:57:42] [Server thread/INFO]: Named entity bwv['Void Scourge'/9652, l='ServerLevel[world]', x=69.28, y=104.00, z=311.21] died: Void Scourge was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[02:57:49] [Server thread/INFO]: Named entity bwv['Abyssal Zombie'/9544, l='ServerLevel[world]', x=66.55, y=102.50, z=308.78] died: Abyssal Zombie was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[02:58:03] [Server thread/INFO]: Named entity bvy['Harbinger'/9697, l='ServerLevel[world]', x=82.57, y=98.15, z=301.43] died: Harbinger was shot by Danielcf37 using [Watcher's Bow of Healing]
+[02:58:33] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/9696, l='ServerLevel[world]', x=71.64, y=95.92, z=291.19] died: Abyssal Spider was killed whilst fighting Danielcf37
+[02:58:39] [Server thread/INFO]: Named entity bvy['Harbinger'/9599, l='ServerLevel[world]', x=64.46, y=-204.83, z=305.23] died: Harbinger was killed
+[02:58:59] [Server thread/INFO]: Named entity bwv['Abyssal Zombie'/9748, l='ServerLevel[world]', x=39.30, y=117.88, z=266.69] died: Abyssal Zombie was slain by TioSkrollex using [Blademaster's Voidblade of Evisceration]
+[02:59:02] [Server thread/INFO]: Named entity bwv['Void Scourge'/9791, l='ServerLevel[world]', x=46.45, y=118.88, z=262.13] died: Void Scourge was slain by TioSkrollex using [Blademaster's Voidblade of Evisceration]
+[02:59:05] [Server thread/INFO]: Named entity bwo['Wraith'/9798, l='ServerLevel[world]', x=35.30, y=119.00, z=262.30] died: Wraith was slain by TioSkrollex using [Blademaster's Voidblade of Evisceration]
+[02:59:08] [Server thread/INFO]: Named entity bvy['Harbinger'/9808, l='ServerLevel[world]', x=41.47, y=-171.40, z=279.13] died: Harbinger was killed whilst fighting Danielcf37
+[02:59:11] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/9799, l='ServerLevel[world]', x=38.00, y=121.75, z=258.98] died: Abyssal Spider was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[02:59:20] [Server thread/INFO]: Named entity bvy['Harbinger'/9841, l='ServerLevel[world]', x=41.35, y=125.05, z=269.93] died: Harbinger was shot by TioSkrollex using [The Sting]
+[02:59:24] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/9815, l='ServerLevel[world]', x=40.04, y=118.59, z=264.19] died: Abyssal Spider was slain by TioSkrollex using [Blademaster's Voidblade of Evisceration]
+[02:59:37] [Server thread/INFO]: Named entity bvy['Harbinger'/9870, l='ServerLevel[world]', x=40.42, y=129.50, z=266.11] died: Harbinger was shot by TioSkrollex using [The Sting]
+[02:59:43] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/9874, l='ServerLevel[world]', x=16.50, y=122.00, z=308.50] died: Abyssal Spider suffocated in a wall
+[02:59:45] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=25, y=129, z=243} gu{x=24, y=128, z=243}
+[02:59:45] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=28, y=131, z=243} gu{x=31, y=129, z=242}
+[02:59:47] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=31, y=133, z=239} gu{x=32, y=130, z=240}
+[02:59:47] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=32, y=133, z=239} gu{x=32, y=130, z=240}
+[02:59:47] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=31, y=134, z=239} gu{x=32, y=130, z=240}
+[02:59:51] [Server thread/INFO]: Named entity bwv['Void Scourge'/9862, l='ServerLevel[world]', x=38.24, y=127.50, z=248.85] died: Void Scourge was killed whilst fighting Danielcf37
+[03:00:14] [Server thread/INFO]: Named entity bvy['Harbinger'/9949, l='ServerLevel[world]', x=22.65, y=128.16, z=268.77] died: Harbinger withered away whilst fighting TioSkrollex
+[03:00:43] [Server thread/WARN]: UUID of added entity already exists: buy['Glow Item Frame'/10030, l='ServerLevel[world]', x=-53.50, y=171.03, z=283.50]
+[03:02:30] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:02:30] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:02:30] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:02:35] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:02:35] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:02:35] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:02:43] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:02:43] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:02:43] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:02:46] [Server thread/INFO]: Named entity bwv['Void Scourge'/10373, l='ServerLevel[world]', x=52.60, y=141.00, z=118.20] died: death.attack.magic.item
+[03:02:46] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:02:46] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:02:46] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:02:52] [Server thread/INFO]: Named entity bvy['Harbinger'/10501, l='ServerLevel[world]', x=55.66, y=153.95, z=117.95] died: Harbinger withered away whilst fighting TioSkrollex
+[03:03:07] [Server thread/INFO]: Named entity bwo['Wraith'/10376, l='ServerLevel[world]', x=55.47, y=141.00, z=117.10] died: Wraith was slain by TioSkrollex using [Blademaster's Voidblade of Evisceration]
+[03:03:09] [Server thread/INFO]: Named entity bwo['Wraith'/10375, l='ServerLevel[world]', x=52.04, y=141.00, z=116.96] died: Wraith was slain by TioSkrollex using [Blademaster's Voidblade of Evisceration]
+[03:03:10] [Server thread/INFO]: Named entity bwv['Void Scourge'/10374, l='ServerLevel[world]', x=52.80, y=141.00, z=118.50] died: Void Scourge was slain by TioSkrollex using [Blademaster's Voidblade of Evisceration]
+[03:03:11] [Server thread/INFO]: Named entity bwv['Void Scourge'/10377, l='ServerLevel[world]', x=52.42, y=141.00, z=119.16] died: Void Scourge was slain by TioSkrollex using [Blademaster's Voidblade of Evisceration]
