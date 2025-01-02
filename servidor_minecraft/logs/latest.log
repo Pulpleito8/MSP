@@ -1,0 +1,188 @@
+[01:59:32] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01:59:36] [ServerMain/INFO]: Loaded 7 recipes
+[01:59:36] [ServerMain/INFO]: Loaded 1633 advancements
+[01:59:37] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[01:59:37] [Server thread/INFO]: Loading properties
+[01:59:37] [Server thread/INFO]: Default game type: SURVIVAL
+[01:59:37] [Server thread/INFO]: Generating keypair
+[01:59:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:59:37] [Server thread/INFO]: Using epoll channel type
+[01:59:37] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:59:37] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:59:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:59:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:59:37] [Server thread/INFO]: Preparing level "world"
+[01:59:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:59:40] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:59:40] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:59:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:59:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:59:40] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:59:40] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:59:41] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:59:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:59:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:59:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:59:43] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[01:59:43] [Worker-Main-2/INFO]: Preparing spawn area: 69%
+[01:59:43] [Server thread/INFO]: Time elapsed: 5901 ms
+[01:59:43] [Server thread/INFO]: Done (6.084s)! For help, type "help"
+[01:59:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3093ms or 61 ticks behind
+[01:59:48] [Server thread/WARN]: UUID of added entity already exists: bxe['Piglin'/51, l='ServerLevel[world]', x=659.50, y=5.00, z=508.50]
+[01:59:48] [Server thread/WARN]: UUID of added entity already exists: bga['Marker'/61, l='ServerLevel[world]', x=29999999.50, y=100.00, z=27115050.50]
+[01:59:52] [Server thread/INFO]: Danielcf37[/127.133.49.52:53973] logged in with entity id 120 at (22.26066474467707, 173.9215999984741, 233.05129297881288)
+[01:59:53] [Server thread/INFO]: Danielcf37 joined the game
+[02:00:13] [Server thread/ERROR]: Display entityNot a string
+[02:00:13] [Server thread/ERROR]: Display entityNot a string
+[02:00:13] [Server thread/ERROR]: Display entityNot a string
+[02:01:39] [Server thread/ERROR]: Display entityNot a string
+[02:01:39] [Server thread/ERROR]: Display entityNot a string
+[02:01:39] [Server thread/ERROR]: Display entityNot a string
+[02:02:33] [Server thread/ERROR]: Display entityNot a string
+[02:02:47] [Server thread/INFO]: TioSkrollex[/127.54.56.198:58947] logged in with entity id 456 at (18.493594013852693, 175.162141421027, 236.28666692058275)
+[02:02:47] [Server thread/INFO]: TioSkrollex joined the game
+[02:02:59] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:24,cr_boots:1,cr_chestplate:1,cr_enchant:184,cr_helmet:1,cr_leggings:1,cr_rarity:3,cr_tier:7,display:{Lore:['{"text":"Epic Prefix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"d","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"14","color":"light_purple","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"7","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"any Armor ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','{"text":"Protection IV","color":"#BEDCFA","bold":true,"italic":false}','{"text":"Unbreaking X","color":"#BEDCFA","bold":true,"italic":false}'],Name:'{"text":"Protox\' Rune","color":"#D19E13","bold":true,"italic":false}'}}}
+[02:02:59] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:36,cr_boots:1,cr_chestplate:1,cr_helmet:1,cr_leggings:1,cr_rarity:1,cr_tier:3,cr_upgrade:9,display:{Lore:['{"text":"Uncommon Upgrade Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"d","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"6","color":"light_purple","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"3","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"any Armor item ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','{"text":"+5% Attack Speed","color":"blue","bold":false,"italic":false}','{"text":"+3% Movement Speed","color":"blue","bold":false,"italic":false}'],Name:'{"text":"Rune of the Lion","color":"#269AFF","bold":true,"italic":false}'}}}
+[02:02:59] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:25,cr_chestplate:1,cr_modifier:78,cr_rarity:2,cr_tier:5,display:{Lore:['{"text":"Rare Suffix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"d","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"25","color":"light_purple","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"5","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Chestplate ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','[{"text":"[Ice Shield] ","color":"#C4EBFF","bold":true,"italic":false},{"text":"Every 90 s, you gain","color":"#DEF7FF","bold":false,"italic":false}]','{"text":"Absorption II. While your Absorption shield","color":"#DEF7FF","bold":false,"italic":false}','{"text":"is up, nearby enemies have Slowness II.","color":"#DEF7FF","bold":false,"italic":false}'],Name:'{"text":"Rune of Shivering","color":"#04BF36","bold":true,"italic":false}'}}}
+[02:02:59] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:02:59] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:02:59] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:02:59] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:02:59] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:02:59] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:03:03] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:03:03] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:03:03] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:03:04] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:03:04] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:03:04] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:03:05] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:03:05] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:03:05] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:03:35] [Server thread/WARN]: TioSkrollex moved wrongly!
+[02:05:35] [Server thread/INFO]: Named entity bvn['Voidling'/113, l='ServerLevel[world]', x=161.62, y=124.00, z=226.98] died: Voidling was killed whilst fighting TioSkrollex
+[02:05:52] [Server thread/INFO]: Named entity bvn['Voidling'/1079, l='ServerLevel[world]', x=156.90, y=133.00, z=229.58] died: Voidling was killed whilst fighting TioSkrollex
+[02:05:53] [Server thread/INFO]: Named entity bvn['Voidling'/114, l='ServerLevel[world]', x=159.54, y=133.00, z=224.78] died: death.attack.magic.item
+[02:06:46] [Server thread/INFO]: Named entity bwv['Abyssal Zombie'/788, l='ServerLevel[world]', x=142.95, y=124.00, z=235.75] died: Abyssal Zombie was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[02:07:01] [Server thread/INFO]: Named entity bvn['Voidling'/1253, l='ServerLevel[world]', x=92.42, y=116.00, z=229.51] died: Voidling was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[02:07:24] [Server thread/INFO]: Named entity bwo['Wraith'/1305, l='ServerLevel[world]', x=64.30, y=101.53, z=230.12] died: Wraith was killed whilst fighting TioSkrollex
+[02:07:25] [Server thread/INFO]: Named entity bwv['Void Scourge'/1264, l='ServerLevel[world]', x=88.72, y=120.00, z=227.35] died: Void Scourge was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[02:07:28] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/1302, l='ServerLevel[world]', x=64.44, y=99.18, z=232.51] died: Abyssal Spider was slain by TioSkrollex using [Overseer's Diamond Pickaxe of Detonation]
+[02:07:28] [Server thread/INFO]: Named entity bwv['Void Scourge'/1265, l='ServerLevel[world]', x=90.47, y=118.77, z=227.46] died: Void Scourge was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[02:07:36] [Server thread/INFO]: Named entity bvy['Harbinger'/1317, l='ServerLevel[world]', x=54.25, y=102.30, z=239.60] died: Harbinger was shot by TioSkrollex using [The Sting]
+[02:07:43] [Server thread/INFO]: Named entity bwv['Abyssal Zombie'/1251, l='ServerLevel[world]', x=88.13, y=113.00, z=234.24] died: Abyssal Zombie was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[02:08:28] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/1407, l='ServerLevel[world]', x=82.45, y=99.00, z=192.02] died: death.attack.magic.item
+[02:08:39] [Server thread/INFO]: Named entity bwv['Abyssal Zombie'/1339, l='ServerLevel[world]', x=75.26, y=100.00, z=195.93] died: Abyssal Zombie was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[02:09:01] [Server thread/INFO]: Named entity bvn['Voidling'/1446, l='ServerLevel[world]', x=95.54, y=100.66, z=199.35] died: death.attack.magic.item
+[02:09:02] [Server thread/INFO]: Named entity bvn['Voidling'/1445, l='ServerLevel[world]', x=93.81, y=101.00, z=196.81] died: death.attack.magic.item
+[02:09:02] [Server thread/INFO]: Named entity bvn['Voidling'/1447, l='ServerLevel[world]', x=95.46, y=101.00, z=199.04] died: death.attack.magic.item
+[02:09:17] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/1496, l='ServerLevel[world]', x=104.67, y=101.00, z=208.23] died: Abyssal Spider was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[02:09:21] [Server thread/INFO]: Named entity bwo['Wraith'/1523, l='ServerLevel[world]', x=106.62, y=99.00, z=222.49] died: Wraith was slain by ☆ Fallen Champion ☆
+[02:09:31] [Server thread/INFO]: Named entity bwo['Wraith'/1522, l='ServerLevel[world]', x=108.70, y=100.00, z=221.96] died: Wraith was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[02:09:50] [Server thread/INFO]: Named entity bwt['☆ Fallen Champion ☆'/771, l='ServerLevel[world]', x=109.35, y=102.75, z=208.50] died: ☆ Fallen Champion ☆ was killed whilst fighting Danielcf37
+[02:10:03] [Server thread/INFO]: Named entity bwv['Void Scourge'/1650, l='ServerLevel[world]', x=96.09, y=91.00, z=227.58] died: Void Scourge was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[02:10:09] [Server thread/INFO]: Named entity bwv['Void Scourge'/1651, l='ServerLevel[world]', x=104.23, y=96.00, z=226.65] died: Void Scourge was slain by TioSkrollex using [Blademaster's Darkthorn of Evisceration]
+[02:11:28] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/1806, l='ServerLevel[world]', x=100.97, y=120.10, z=241.45] died: Abyssal Spider suffocated in a wall
+[02:11:50] [Server thread/INFO]: Named entity bwo['Wraith'/1828, l='ServerLevel[world]', x=104.94, y=123.50, z=201.30] died: Wraith was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[02:11:55] [Server thread/INFO]: Named entity bxs['☆ Abyssal Warden ☆'/1830, l='ServerLevel[world]', x=101.80, y=127.00, z=201.72] died: ☆ Abyssal Warden ☆ was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[02:12:10] [Server thread/INFO]: Named entity bwt['☆ Fallen Champion ☆'/1829, l='ServerLevel[world]', x=107.49, y=122.30, z=203.55] died: ☆ Fallen Champion ☆ was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[02:12:15] [Server thread/INFO]: Named entity bwv['Abyssal Zombie'/1903, l='ServerLevel[world]', x=86.77, y=133.25, z=216.72] died: Abyssal Zombie was killed whilst fighting TioSkrollex
+[02:12:16] [Server thread/INFO]: Named entity bwv['Abyssal Zombie'/1495, l='ServerLevel[world]', x=103.85, y=126.26, z=202.44] died: Abyssal Zombie was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[02:13:07] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/1821, l='ServerLevel[world]', x=76.43, y=131.00, z=204.52] died: Abyssal Spider was struck by lightning
+[02:13:51] [Server thread/INFO]: Named entity bwo['Wraith'/2089, l='ServerLevel[world]', x=147.40, y=115.00, z=257.70] died: Wraith was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[02:13:52] [Server thread/INFO]: Named entity bwv['Void Scourge'/2090, l='ServerLevel[world]', x=148.68, y=117.42, z=258.50] died: Void Scourge was killed whilst fighting Danielcf37
+[02:14:09] [Server thread/INFO]: Named entity bwo['Wraith'/2144, l='ServerLevel[world]', x=164.77, y=124.00, z=249.30] died: Wraith was killed
+[02:14:25] [Server thread/INFO]: Named entity bwo['Wraith'/2102, l='ServerLevel[world]', x=153.25, y=124.00, z=237.54] died: Wraith was killed whilst fighting Danielcf37
+[02:14:29] [Server thread/INFO]: Named entity bwv['Void Scourge'/2142, l='ServerLevel[world]', x=144.47, y=124.00, z=229.37] died: Void Scourge was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[02:14:38] [Server thread/INFO]: Named entity bwt['☆ Fallen Champion ☆'/2141, l='ServerLevel[world]', x=137.65, y=119.00, z=220.95] died: ☆ Fallen Champion ☆ was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[02:14:46] [Server thread/INFO]: Named entity bwv['Abyssal Zombie'/2201, l='ServerLevel[world]', x=148.43, y=124.00, z=234.30] died: Abyssal Zombie was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[02:15:09] [Server thread/INFO]: Named entity bwv['Void Scourge'/2271, l='ServerLevel[world]', x=196.69, y=127.00, z=265.51] died: Void Scourge was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[02:15:26] [Server thread/INFO]: Named entity bwo['Wraith'/2143, l='ServerLevel[world]', x=191.39, y=118.31, z=270.70] died: Wraith was slain by TioSkrollex using [Blademaster's Darkthorn of Evisceration]
+[02:15:26] [Server thread/INFO]: Named entity bwo['Wraith'/2303, l='ServerLevel[world]', x=212.72, y=128.00, z=264.70] died: Wraith was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[02:15:29] [Server thread/INFO]: Named entity bwo['Wraith'/2302, l='ServerLevel[world]', x=218.06, y=128.00, z=265.70] died: Wraith was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[02:15:36] [Server thread/INFO]: Named entity bwv['Void Scourge'/2350, l='ServerLevel[world]', x=205.38, y=128.00, z=267.27] died: death.attack.magic.item
+[02:15:47] [Server thread/INFO]: Named entity bvn['Voidling'/2390, l='ServerLevel[world]', x=193.51, y=130.15, z=283.08] died: Voidling was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[02:15:54] [Server thread/INFO]: Named entity bvn['Voidling'/2389, l='ServerLevel[world]', x=192.86, y=129.00, z=286.90] died: Voidling was burnt to a crisp whilst fighting Danielcf37
+[02:16:06] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/2397, l='ServerLevel[world]', x=203.27, y=125.02, z=292.89] died: Abyssal Spider was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[02:16:29] [Server thread/INFO]: Named entity bwo['Wraith'/2370, l='ServerLevel[world]', x=152.22, y=128.00, z=278.25] died: Wraith was slain by TioSkrollex using [Blademaster's Darkthorn of Evisceration]
+[02:16:56] [Server thread/INFO]: Named entity bvy['Harbinger'/2540, l='ServerLevel[world]', x=175.72, y=-169.46, z=278.92] died: Harbinger was killed
+[02:17:07] [Server thread/INFO]: Named entity bvy['Harbinger'/2574, l='ServerLevel[world]', x=234.97, y=-206.94, z=308.24] died: Harbinger was killed
+[02:17:09] [Server thread/INFO]: Named entity bvy['Harbinger'/2588, l='ServerLevel[world]', x=178.98, y=-168.86, z=280.72] died: Harbinger was killed whilst fighting TioSkrollex
+[02:17:14] [Server thread/INFO]: Named entity bwv['Void Scourge'/2524, l='ServerLevel[world]', x=173.89, y=125.30, z=275.81] died: Void Scourge was killed whilst fighting TioSkrollex
+[02:17:21] [Server thread/INFO]: Named entity bvy['Harbinger'/2628, l='ServerLevel[world]', x=169.10, y=-171.20, z=273.99] died: Harbinger was killed
+[02:17:35] [Server thread/INFO]: Named entity bvy['Harbinger'/2647, l='ServerLevel[world]', x=171.06, y=137.96, z=289.41] died: Harbinger was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[02:17:35] [Server thread/INFO]: Named entity bwv['Abyssal Zombie'/2489, l='ServerLevel[world]', x=145.41, y=115.00, z=254.27] died: Abyssal Zombie was burnt to a crisp whilst fighting TioSkrollex
+[02:17:38] [Server thread/INFO]: Named entity bvy['Harbinger'/2649, l='ServerLevel[world]', x=169.57, y=136.42, z=294.61] died: death.attack.magic.item
+[02:17:40] [Server thread/INFO]: Named entity bvy['Harbinger'/2677, l='ServerLevel[world]', x=167.13, y=155.63, z=296.95] died: Harbinger was burnt to a crisp whilst fighting Danielcf37
+[02:17:43] [Server thread/INFO]: Named entity bwt['☆ Fallen Champion ☆'/2523, l='ServerLevel[world]', x=137.32, y=122.25, z=243.50] died: ☆ Fallen Champion ☆ was slain by TioSkrollex using [Blademaster's Darkthorn of Evisceration]
+[02:17:46] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/2496, l='ServerLevel[world]', x=139.70, y=121.07, z=243.25] died: Abyssal Spider was slain by TioSkrollex using [Blademaster's Darkthorn of Evisceration]
+[02:18:03] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/2739, l='ServerLevel[world]', x=149.57, y=119.00, z=300.12] died: Abyssal Spider was killed whilst fighting TioSkrollex
+[02:18:06] [Server thread/INFO]: Named entity bvy['Harbinger'/2743, l='ServerLevel[world]', x=146.28, y=122.00, z=305.16] died: Harbinger was shot by TioSkrollex using [The Sting]
+[02:18:06] [Server thread/INFO]: Named entity bvn['Voidling'/2526, l='ServerLevel[world]', x=167.19, y=136.88, z=289.16] died: Voidling was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[02:18:32] [Server thread/INFO]: Named entity bvy['Harbinger'/2810, l='ServerLevel[world]', x=155.08, y=136.96, z=306.79] died: Harbinger was shot by Danielcf37 using [Watcher's Bow of Healing]
+[02:18:54] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/2850, l='ServerLevel[world]', x=185.50, y=129.00, z=350.50] died: Abyssal Spider suffocated in a wall
+[02:19:15] [Server thread/INFO]: Named entity bwt['☆ Fallen Champion ☆'/2387, l='ServerLevel[world]', x=203.40, y=122.00, z=282.36] died: ☆ Fallen Champion ☆ was killed whilst fighting Danielcf37
+[02:19:19] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/2293, l='ServerLevel[world]', x=201.37, y=124.14, z=284.40] died: Abyssal Spider was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[02:19:33] [Server thread/INFO]: Named entity bwv['Abyssal Zombie'/2902, l='ServerLevel[world]', x=204.76, y=124.00, z=281.02] died: Abyssal Zombie was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[02:19:37] [Server thread/INFO]: Named entity bvy['Harbinger'/2958, l='ServerLevel[world]', x=179.76, y=-172.38, z=277.29] died: Harbinger was killed
+[02:19:56] [Server thread/INFO]: Named entity bxs['☆ Abyssal Warden ☆'/2967, l='ServerLevel[world]', x=221.90, y=133.00, z=269.78] died: ☆ Abyssal Warden ☆ was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[02:19:57] [Server thread/INFO]: Named entity bvy['Harbinger'/2983, l='ServerLevel[world]', x=176.30, y=125.57, z=273.43] died: Harbinger was slain by TioSkrollex using [Blademaster's Darkthorn of Evisceration]
+[02:20:01] [Server thread/INFO]: Named entity bwv['Abyssal Zombie'/2871, l='ServerLevel[world]', x=221.19, y=128.30, z=263.73] died: Abyssal Zombie was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[02:20:26] [Server thread/INFO]: Named entity bwv['Abyssal Zombie'/2951, l='ServerLevel[world]', x=229.42, y=128.00, z=276.98] died: Abyssal Zombie was killed whilst fighting Wraith
+[02:20:31] [Server thread/INFO]: Named entity bwo['Wraith'/3027, l='ServerLevel[world]', x=229.73, y=128.00, z=279.43] died: Wraith was shot by Wraith
+[02:20:33] [Server thread/INFO]: Named entity bwo['Wraith'/3028, l='ServerLevel[world]', x=231.46, y=127.88, z=279.69] died: Wraith was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[02:20:39] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=230, y=128, z=278} gu{x=229, y=127, z=277}
+[02:20:49] [Server thread/INFO]: Named entity bwo['Wraith'/3199, l='ServerLevel[world]', x=221.30, y=128.31, z=277.70] died: Wraith was killed whilst fighting TioSkrollex
+[02:21:41] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/3308, l='ServerLevel[world]', x=246.30, y=94.10, z=237.70] died: Abyssal Spider suffocated in a wall
+[02:22:04] [Server thread/INFO]: Named entity bwv['Abyssal Zombie'/3293, l='ServerLevel[world]', x=191.67, y=110.00, z=256.51] died: Abyssal Zombie was killed whilst fighting Danielcf37
+[02:22:19] [Server thread/INFO]: Named entity bwv['Abyssal Zombie'/2955, l='ServerLevel[world]', x=210.24, y=107.00, z=248.72] died: Abyssal Zombie was burnt to a crisp whilst fighting TioSkrollex
+[02:22:24] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/3401, l='ServerLevel[world]', x=209.01, y=110.40, z=248.62] died: Abyssal Spider was killed whilst fighting TioSkrollex
+[02:22:24] [Server thread/INFO]: Named entity bwv['Void Scourge'/3396, l='ServerLevel[world]', x=212.02, y=106.95, z=247.59] died: Void Scourge was slain by TioSkrollex using [Blademaster's Darkthorn of Evisceration]
+[02:22:28] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/3285, l='ServerLevel[world]', x=200.11, y=110.00, z=237.79] died: Abyssal Spider was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[02:22:31] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/3403, l='ServerLevel[world]', x=176.50, y=169.00, z=226.50] died: Abyssal Spider suffocated in a wall
+[02:22:40] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/3267, l='ServerLevel[world]', x=212.83, y=112.64, z=226.28] died: Abyssal Spider was killed whilst fighting TioSkrollex
+[02:22:55] [Server thread/INFO]: Named entity bvn['Voidling'/3512, l='ServerLevel[world]', x=252.35, y=109.75, z=234.44] died: Voidling was killed whilst fighting TioSkrollex
+[02:22:55] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=251, y=111, z=236} gu{x=251, y=109, z=235}
+[02:22:55] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=251, y=111, z=236} gu{x=251, y=109, z=235}
+[02:22:55] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=252, y=110, z=236} gu{x=251, y=109, z=235}
+[02:22:56] [Server thread/INFO]: Named entity bwo['Wraith'/3510, l='ServerLevel[world]', x=251.53, y=35.09, z=230.08] died: Wraith was killed whilst fighting TioSkrollex
+[02:23:08] [Server thread/INFO]: Named entity bvy['Harbinger'/3547, l='ServerLevel[world]', x=256.18, y=-167.79, z=243.70] died: Harbinger was killed whilst fighting TioSkrollex
+[02:23:20] [Server thread/INFO]: Named entity bvy['Harbinger'/3587, l='ServerLevel[world]', x=259.94, y=119.86, z=248.20] died: Harbinger was shot by TioSkrollex using [The Sting]
+[02:24:38] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/3723, l='ServerLevel[world]', x=213.83, y=104.50, z=300.22] died: Abyssal Spider was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[02:24:47] [Server thread/INFO]: Named entity bwv['Abyssal Zombie'/3661, l='ServerLevel[world]', x=226.44, y=96.00, z=302.87] died: Abyssal Zombie was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[02:24:48] [Server thread/INFO]: Named entity bwv['Abyssal Zombie'/3568, l='ServerLevel[world]', x=226.84, y=96.00, z=302.30] died: Abyssal Zombie was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[02:24:53] [Server thread/INFO]: Named entity bwo['Wraith'/3779, l='ServerLevel[world]', x=225.94, y=88.00, z=311.09] died: Wraith was slain by TioSkrollex using [Blademaster's Darkthorn of Evisceration]
+[02:24:56] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/3790, l='ServerLevel[world]', x=234.64, y=96.00, z=299.15] died: Abyssal Spider was killed whilst fighting Danielcf37
+[02:24:57] [Server thread/INFO]: Named entity bvy['Harbinger'/3811, l='ServerLevel[world]', x=236.93, y=91.83, z=317.37] died: Harbinger was shot by TioSkrollex using [The Sting]
+[02:25:08] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/3792, l='ServerLevel[world]', x=220.30, y=123.10, z=286.70] died: Abyssal Spider suffocated in a wall
+[02:25:13] [Server thread/INFO]: Named entity bwv['Void Scourge'/3799, l='ServerLevel[world]', x=235.23, y=96.00, z=299.17] died: Void Scourge was doomed to fall by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[02:25:20] [Server thread/INFO]: Named entity bwv['Void Scourge'/3800, l='ServerLevel[world]', x=225.79, y=96.00, z=302.46] died: Void Scourge was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[02:25:22] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/3857, l='ServerLevel[world]', x=261.50, y=90.00, z=304.50] died: Abyssal Spider suffocated in a wall
+[02:25:25] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/3788, l='ServerLevel[world]', x=231.03, y=96.00, z=300.86] died: Abyssal Spider was killed
+[02:25:29] [Server thread/INFO]: Named entity bwv['Void Scourge'/3797, l='ServerLevel[world]', x=231.45, y=96.38, z=301.87] died: Void Scourge was slain by TioSkrollex using [Blademaster's Darkthorn of Evisceration]
+[02:25:29] [Server thread/INFO]: Named entity bwv['Void Scourge'/3798, l='ServerLevel[world]', x=228.43, y=96.00, z=303.42] died: Void Scourge was slain by TioSkrollex using [Blademaster's Darkthorn of Evisceration]
+[02:25:46] [Server thread/INFO]: Named entity bwt['☆ Fallen Champion ☆'/3874, l='ServerLevel[world]', x=213.62, y=108.50, z=296.19] died: ☆ Fallen Champion ☆ was killed whilst fighting TioSkrollex
+[02:26:05] [Server thread/WARN]: TioSkrollex moved wrongly!
+[02:26:11] [Server thread/INFO]: Named entity bwv['Abyssal Zombie'/3802, l='ServerLevel[world]', x=244.70, y=96.42, z=284.35] died: Abyssal Zombie was killed whilst fighting TioSkrollex
+[02:26:15] [Server thread/INFO]: Named entity bwv['Void Scourge'/3972, l='ServerLevel[world]', x=235.42, y=103.00, z=285.37] died: Void Scourge was slain by TioSkrollex using [Overseer's Diamond Pickaxe of Detonation]
+[02:26:15] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/3451, l='ServerLevel[world]', x=238.56, y=97.00, z=284.76] died: death.attack.magic.item
+[02:26:18] [Server thread/INFO]: Named entity bwv['Abyssal Zombie'/3968, l='ServerLevel[world]', x=230.57, y=94.88, z=283.90] died: Abyssal Zombie was slain by TioSkrollex using [Blademaster's Darkthorn of Evisceration]
+[02:26:24] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/3912, l='ServerLevel[world]', x=241.70, y=105.29, z=282.51] died: Abyssal Spider was killed whilst fighting Danielcf37
+[02:26:24] [Server thread/INFO]: Named entity bwv['Void Scourge'/3969, l='ServerLevel[world]', x=236.67, y=99.21, z=281.40] died: Void Scourge was killed whilst fighting Danielcf37
+[02:26:25] [Server thread/INFO]: Named entity bwv['Void Scourge'/3973, l='ServerLevel[world]', x=234.99, y=99.45, z=278.66] died: Void Scourge was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[02:26:26] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/3953, l='ServerLevel[world]', x=234.42, y=102.39, z=281.09] died: Abyssal Spider was killed whilst fighting TioSkrollex
+[02:26:29] [Server thread/INFO]: Named entity bwv['Abyssal Zombie'/3971, l='ServerLevel[world]', x=233.02, y=96.00, z=283.08] died: Abyssal Zombie was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[02:26:32] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/3954, l='ServerLevel[world]', x=235.26, y=97.40, z=280.93] died: Abyssal Spider was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[02:26:55] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/3904, l='ServerLevel[world]', x=196.48, y=90.00, z=277.62] died: Abyssal Spider was slain by TioSkrollex using [Blademaster's Darkthorn of Evisceration]
+[02:26:56] [Server thread/INFO]: Named entity bwv['Abyssal Zombie'/3870, l='ServerLevel[world]', x=194.92, y=89.00, z=274.29] died: Abyssal Zombie was slain by TioSkrollex using [Blademaster's Darkthorn of Evisceration]
+[02:27:09] [Server thread/INFO]: Named entity bwo['Wraith'/4158, l='ServerLevel[world]', x=168.30, y=93.00, z=265.30] died: Wraith was slain by TioSkrollex using [Blademaster's Darkthorn of Evisceration]
+[02:27:12] [Server thread/INFO]: Named entity bwo['Wraith'/4159, l='ServerLevel[world]', x=173.69, y=92.00, z=268.00] died: Wraith was killed whilst fighting TioSkrollex
+[02:27:17] [Server thread/INFO]: Danielcf37 was killed by magic
+[02:27:28] [Server thread/INFO]: Named entity bwv['Void Scourge'/4150, l='ServerLevel[world]', x=166.60, y=93.00, z=272.94] died: Void Scourge was burnt to a crisp whilst fighting TioSkrollex
+[02:27:34] [Server thread/INFO]: Named entity bwv['Abyssal Zombie'/4107, l='ServerLevel[world]', x=161.50, y=96.54, z=277.51] died: Abyssal Zombie was slain by TioSkrollex using [Overseer's Diamond Pickaxe of Detonation]
+[02:27:38] [Server thread/INFO]: Named entity bwo['Wraith'/4329, l='ServerLevel[world]', x=174.91, y=92.00, z=273.60] died: Wraith was slain by TioSkrollex using [Blademaster's Darkthorn of Evisceration]
+[02:28:05] [Server thread/INFO]: Named entity bvn['Voidling'/4180, l='ServerLevel[world]', x=201.60, y=90.00, z=273.75] died: Voidling was burnt to a crisp whilst fighting TioSkrollex
+[02:28:16] [Server thread/INFO]: Named entity bwv['Void Scourge'/4391, l='ServerLevel[world]', x=209.10, y=91.00, z=279.88] died: Void Scourge was slain by TioSkrollex using [Blademaster's Darkthorn of Evisceration]
+[02:28:18] [Server thread/INFO]: Named entity bwt['☆ Fallen Champion ☆'/4183, l='ServerLevel[world]', x=210.65, y=90.88, z=279.71] died: ☆ Fallen Champion ☆ was slain by TioSkrollex using [Blademaster's Darkthorn of Evisceration]
+[02:28:57] [Server thread/INFO]: Named entity bwo['Wraith'/4631, l='ServerLevel[world]', x=169.17, y=91.00, z=278.37] died: Wraith was killed whilst fighting Danielcf37
+[02:29:02] [Server thread/INFO]: Named entity bvn['Voidling'/4657, l='ServerLevel[world]', x=184.28, y=92.92, z=283.33] died: Voidling was killed whilst fighting TioSkrollex
