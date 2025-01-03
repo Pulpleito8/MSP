@@ -266,3 +266,72 @@
 [21:40:47] [Server thread/INFO]: Named entity bvy['Harbinger'/5590, l='ServerLevel[world]', x=309.99, y=89.77, z=485.57] died: Harbinger was burnt to a crisp whilst fighting Danielcf37
 [21:40:51] [Server thread/INFO]: Named entity bvo['Lightning Elemental'/5577, l='ServerLevel[world]', x=309.33, y=87.00, z=484.60] died: Lightning Elemental was shot by Danielcf37 using [Watcher's Bow of Healing]
 [21:40:55] [Server thread/INFO]: Named entity bvy['Harbinger'/5640, l='ServerLevel[world]', x=310.57, y=89.27, z=469.43] died: Harbinger was shot by Danielcf37 using [Watcher's Bow of Healing]
+[21:42:25] [Server thread/INFO]: Named entity bwk['Charged Bones'/5730, l='ServerLevel[world]', x=191.50, y=109.00, z=534.50] died: Charged Bones was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[21:42:38] [Server thread/INFO]: Named entity bwo['Wraith'/5765, l='ServerLevel[world]', x=200.10, y=109.00, z=552.27] died: Wraith was slain by Stormcaller
+[21:42:40] [Server thread/INFO]: Named entity brm['Storm Wisp'/5773, l='ServerLevel[world]', x=188.16, y=109.51, z=542.26] died: death.attack.magic.item
+[21:42:40] [Server thread/INFO]: Named entity bwk['Stormcaller'/5755, l='ServerLevel[world]', x=189.49, y=109.00, z=541.34] died: death.attack.magic.item
+[21:42:43] [Server thread/INFO]: Named entity bwo['Wraith'/5764, l='ServerLevel[world]', x=196.59, y=109.00, z=548.26] died: death.attack.magic.item
+[21:42:43] [Server thread/INFO]: Named entity bwk['Stormcaller'/5748, l='ServerLevel[world]', x=190.33, y=109.00, z=544.22] died: Stormcaller was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[21:42:57] [Server thread/INFO]: Named entity bwo['☆ Herald of Lightning ☆'/5751, l='ServerLevel[world]', x=193.85, y=109.00, z=547.90] died: ☆ Herald of Lightning ☆ was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[21:43:06] [Server thread/INFO]: Named entity bwq['Void Imp'/5741, l='ServerLevel[world]', x=205.23, y=102.81, z=541.94] died: Void Imp starved to death
+[21:43:06] [Server thread/INFO]: Named entity bwq['Void Imp'/5742, l='ServerLevel[world]', x=179.35, y=80.40, z=506.71] died: Void Imp starved to death
+[21:43:13] [Server thread/INFO]: Named entity bvo['Lightning Elemental'/5891, l='ServerLevel[world]', x=184.30, y=109.00, z=554.28] died: Lightning Elemental was shot by Danielcf37 using [Watcher's Bow of Healing]
+[21:43:15] [Server thread/INFO]: Named entity bwk['Stormcaller'/5749, l='ServerLevel[world]', x=185.56, y=109.00, z=550.70] died: Stormcaller was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[21:43:16] [Server thread/INFO]: Named entity brm['Storm Wisp'/5912, l='ServerLevel[world]', x=185.66, y=-150.35, z=552.31] died: Storm Wisp was killed whilst fighting Danielcf37
+[21:43:23] [Server thread/INFO]: Named entity bwk['Charged Bones'/5905, l='ServerLevel[world]', x=183.22, y=109.00, z=575.16] died: death.attack.magic.item
+[21:43:23] [Server thread/INFO]: Named entity bwk['Charged Bones'/5907, l='ServerLevel[world]', x=184.49, y=109.00, z=577.01] died: death.attack.magic.item
+[21:43:23] [Server thread/INFO]: Named entity bwk['Charged Bones'/5903, l='ServerLevel[world]', x=181.93, y=109.00, z=576.48] died: death.attack.magic.item
+[21:43:37] [Server thread/INFO]: Named entity bvy['Harbinger'/6009, l='ServerLevel[world]', x=198.82, y=-185.41, z=571.69] died: Harbinger was killed
+[21:43:39] [Server thread/INFO]: Named entity bwq['Void Imp'/5953, l='ServerLevel[world]', x=190.66, y=110.19, z=561.84] died: death.attack.magic.item
+[21:43:39] [Server thread/INFO]: Named entity bwk['Charged Bones'/5957, l='ServerLevel[world]', x=192.45, y=109.00, z=565.67] died: death.attack.magic.item
+[21:43:39] [Server thread/INFO]: Named entity bwk['Charged Bones'/5963, l='ServerLevel[world]', x=192.32, y=109.00, z=566.06] died: death.attack.magic.item
+[21:43:39] [Server thread/INFO]: Named entity bwq['Void Imp'/5954, l='ServerLevel[world]', x=192.06, y=111.37, z=562.71] died: death.attack.magic.item
+[21:43:39] [Server thread/INFO]: Named entity bwk['Charged Bones'/5961, l='ServerLevel[world]', x=191.50, y=109.00, z=563.40] died: death.attack.magic.item
+[21:43:40] [Server thread/INFO]: Named entity bwk['Charged Bones'/5959, l='ServerLevel[world]', x=192.50, y=109.00, z=562.12] died: death.attack.magic.item
+[21:43:51] [Server thread/INFO]: Named entity bwq['Void Imp'/5932, l='ServerLevel[world]', x=189.94, y=109.14, z=533.67] died: Void Imp was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[21:43:51] [Server thread/INFO]: Named entity bwq['Void Imp'/5956, l='ServerLevel[world]', x=188.49, y=112.30, z=532.95] died: Void Imp was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[21:43:53] [Server thread/INFO]: Named entity bvz['☆ Overlord ☆'/5967, l='ServerLevel[world]', x=188.52, y=109.00, z=532.10] died: ☆ Overlord ☆ was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[21:43:55] [Server thread/INFO]: Named entity bwo['☆ Herald of Lightning ☆'/5946, l='ServerLevel[world]', x=188.51, y=109.00, z=532.97] died: ☆ Herald of Lightning ☆ was killed whilst fighting Danielcf37
+[21:44:00] [Server thread/INFO]: Named entity bwq['Void Imp'/5955, l='ServerLevel[world]', x=196.76, y=122.84, z=598.11] died: Void Imp starved to death
+[21:44:09] [Server thread/INFO]: Named entity bvy['Harbinger'/6200, l='ServerLevel[world]', x=197.53, y=-189.53, z=564.19] died: Harbinger was killed
+[21:44:17] [Server thread/INFO]: Named entity bvy['Harbinger'/6217, l='ServerLevel[world]', x=186.23, y=-182.85, z=580.93] died: Harbinger was killed
+[21:44:20] [Server thread/INFO]: Named entity bwk['Charged Bones'/6149, l='ServerLevel[world]', x=193.42, y=109.00, z=567.28] died: Charged Bones was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[21:44:23] [Server thread/INFO]: Named entity bvy['Harbinger'/6238, l='ServerLevel[world]', x=189.87, y=114.95, z=572.57] died: Harbinger was shot by Danielcf37 using [Watcher's Bow of Healing]
+[21:44:25] [Server thread/INFO]: Named entity bvo['Lightning Elemental'/6267, l='ServerLevel[world]', x=187.84, y=109.00, z=567.16] died: Lightning Elemental was shot by Danielcf37 using [Watcher's Bow of Healing]
+[21:44:38] [Server thread/INFO]: Named entity bvy['Harbinger'/6271, l='ServerLevel[world]', x=190.72, y=117.15, z=581.82] died: Harbinger was shot by Danielcf37 using [Watcher's Bow of Healing]
+[21:44:52] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/6294, l='ServerLevel[world]', x=235.50, y=126.00, z=664.50] died: Abyssal Spider suffocated in a wall
+[21:44:53] [Server thread/INFO]: Named entity brm['Storm Wasp'/6335, l='ServerLevel[world]', x=189.80, y=-137.00, z=601.18] died: Storm Wasp was killed whilst fighting Danielcf37
+[21:44:53] [Server thread/INFO]: Named entity bvo['Lightning Elemental'/6319, l='ServerLevel[world]', x=190.49, y=123.00, z=604.45] died: Lightning Elemental was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[21:44:54] [Server thread/INFO]: Named entity brm['Storm Wasp'/6334, l='ServerLevel[world]', x=188.09, y=-137.86, z=602.98] died: Storm Wasp was killed whilst fighting Danielcf37
+[21:45:07] [Server thread/INFO]: Named entity brm['Storm Wasp'/6336, l='ServerLevel[world]', x=189.41, y=128.12, z=587.22] died: Storm Wasp was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[21:45:09] [Server thread/INFO]: Named entity bwk['Charged Bones'/5990, l='ServerLevel[world]', x=189.50, y=128.00, z=583.85] died: Charged Bones was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[21:45:10] [Server thread/INFO]: Named entity bwk['Charged Bones'/5992, l='ServerLevel[world]', x=189.30, y=128.00, z=584.62] died: Charged Bones was blown up by Lightning Elemental
+[21:45:17] [Server thread/INFO]: Named entity bwk['Charged Bones'/6362, l='ServerLevel[world]', x=194.50, y=128.00, z=573.39] died: death.attack.magic.item
+[21:45:29] [Server thread/INFO]: Named entity bwo['Wraith'/6420, l='ServerLevel[world]', x=178.28, y=137.44, z=580.08] died: Wraith was burnt to a crisp whilst fighting Danielcf37
+[21:45:29] [Server thread/INFO]: Named entity bwo['Wraith'/6421, l='ServerLevel[world]', x=180.64, y=137.00, z=580.05] died: Wraith was burnt to a crisp whilst fighting Danielcf37
+[21:45:33] [Server thread/INFO]: Named entity brm['Storm Wasp'/6386, l='ServerLevel[world]', x=192.48, y=132.24, z=574.73] died: death.attack.magic.item
+[21:45:34] [Server thread/INFO]: Named entity bwk['Charged Bones'/6360, l='ServerLevel[world]', x=193.53, y=128.00, z=578.81] died: Charged Bones burned to death
+[21:45:34] [Server thread/INFO]: Named entity bwk['Charged Bones'/6356, l='ServerLevel[world]', x=192.46, y=130.52, z=577.58] died: death.attack.magic.item
+[21:45:34] [Server thread/INFO]: Named entity bwk['Charged Bones'/6358, l='ServerLevel[world]', x=192.60, y=128.54, z=578.43] died: death.attack.magic.item
+[21:45:35] [Server thread/INFO]: Named entity brm['Storm Wasp'/6385, l='ServerLevel[world]', x=191.81, y=129.27, z=579.78] died: death.attack.magic.item
+[21:45:58] [Server thread/INFO]: Named entity brm['Storm Wasp'/6387, l='ServerLevel[world]', x=181.99, y=110.23, z=586.96] died: Storm Wasp was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[21:46:46] [Server thread/INFO]: Named entity bwo['☆ Herald of Lightning ☆'/6445, l='ServerLevel[world]', x=200.70, y=141.40, z=584.92] died: ☆ Herald of Lightning ☆ was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[21:46:53] [Server thread/INFO]: Danielcf37 has completed the challenge [Savior]
+[21:46:53] [Server thread/INFO]: Named entity bwk['Charged Bones'/6354, l='ServerLevel[world]', x=183.85, y=137.00, z=585.22] died: Charged Bones was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[21:47:09] [Server thread/INFO]: Named entity brm['Storm Wisp'/6674, l='ServerLevel[world]', x=193.05, y=-114.49, z=572.13] died: Storm Wisp was killed whilst fighting Danielcf37
+[21:47:09] [Server thread/INFO]: Named entity bwq['Void Imp'/6653, l='ServerLevel[world]', x=191.57, y=-113.96, z=572.96] died: Void Imp was killed whilst fighting Danielcf37
+[21:47:10] [Server thread/INFO]: Named entity bwq['Void Imp'/6655, l='ServerLevel[world]', x=190.35, y=-114.74, z=573.62] died: Void Imp was killed whilst fighting Danielcf37
+[21:47:10] [Server thread/INFO]: Danielcf37 was killed by magic
+[21:47:23] [Server thread/ERROR]: Display entityNot a string
+[21:47:23] [Server thread/ERROR]: Display entityNot a string
+[21:47:23] [Server thread/ERROR]: Display entityNot a string
+[21:47:39] [Server thread/ERROR]: Display entityNot a string
+[21:48:05] [Server thread/ERROR]: Display entityNot a string
+[21:48:05] [Server thread/ERROR]: Display entityNot a string
+[21:48:05] [Server thread/ERROR]: Display entityNot a string
+[21:48:13] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[21:48:13] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[21:48:13] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[21:48:17] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[21:48:17] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[21:48:17] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
