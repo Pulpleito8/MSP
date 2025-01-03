@@ -54,3 +54,148 @@
 [02:37:19] [Server thread/INFO]: Named entity bwo['Wraith'/1566, l='ServerLevel[world]', x=194.03, y=128.00, z=358.67] died: Wraith was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
 [02:37:24] [Server thread/INFO]: Named entity bwt['☆ Fallen Champion ☆'/1565, l='ServerLevel[world]', x=191.45, y=127.30, z=371.23] died: ☆ Fallen Champion ☆ was slain by TioSkrollex using [Blademaster's Disintegrator of Evisceration]
 [02:37:49] [Server thread/INFO]: Made Danielcf37 a server operator
+[02:37:59] [Server thread/INFO]: [Danielcf37: Executed 5 command(s) from function 'npc:shade_red/2a']
+[02:38:00] [Server thread/INFO]: [Danielcf37: Executed 5 command(s) from function 'npc:shade_red/3a']
+[02:38:01] [Server thread/INFO]: [Danielcf37: Executed 6 command(s) from function 'npc:shade_red/4a']
+[02:38:12] [Server thread/INFO]: Named entity bwk['Charged Bones'/1817, l='ServerLevel[world]', x=220.30, y=119.00, z=410.50] died: Charged Bones was shot by TioSkrollex using [The Sting]
+[02:38:17] [Server thread/INFO]: Named entity bwk['Charged Bones'/1819, l='ServerLevel[world]', x=197.89, y=128.00, z=410.30] died: Charged Bones was slain by TioSkrollex using [Rock Ale]
+[02:38:20] [Server thread/INFO]: Named entity bwk['Charged Bones'/1813, l='ServerLevel[world]', x=193.50, y=128.00, z=401.90] died: Charged Bones was slain by TioSkrollex
+[02:38:22] [Server thread/INFO]: Named entity bwq['Void Imp'/1825, l='ServerLevel[world]', x=192.25, y=-129.27, z=400.72] died: Void Imp was killed whilst fighting Danielcf37
+[02:38:34] [Server thread/INFO]: Named entity bwo['☆ Herald of Lightning ☆'/1821, l='ServerLevel[world]', x=191.48, y=128.00, z=401.85] died: ☆ Herald of Lightning ☆ was slain by TioSkrollex using [Blademaster's Disintegrator of Evisceration]
+[02:38:43] [Server thread/INFO]: Named entity bwq['Void Imp'/1822, l='ServerLevel[world]', x=245.65, y=117.73, z=425.87] died: Void Imp starved to death
+[02:38:47] [Server thread/INFO]: Named entity bwk['Charged Bones'/1815, l='ServerLevel[world]', x=240.42, y=115.00, z=415.21] died: death.attack.magic.item
+[02:39:14] [Server thread/INFO]: Named entity brm['Storm Wasp'/2005, l='ServerLevel[world]', x=263.87, y=-144.17, z=408.77] died: Storm Wasp was killed whilst fighting TioSkrollex
+[02:39:15] [Server thread/INFO]: Named entity brm['Storm Wasp'/2006, l='ServerLevel[world]', x=262.72, y=-142.16, z=408.82] died: Storm Wasp was killed whilst fighting TioSkrollex
+[02:39:22] [Server thread/INFO]: Named entity brm['Storm Wasp'/2007, l='ServerLevel[world]', x=261.73, y=117.30, z=409.79] died: Storm Wasp was slain by TioSkrollex using [Blademaster's Disintegrator of Evisceration]
+[02:39:42] [Server thread/INFO]: Named entity bwk['Charged Bones'/1972, l='ServerLevel[world]', x=249.98, y=111.25, z=406.51] died: Charged Bones was killed whilst fighting TioSkrollex
+[02:39:45] [Server thread/INFO]: Named entity bwk['Charged Bones'/1970, l='ServerLevel[world]', x=250.88, y=109.50, z=406.50] died: Charged Bones was shot by TioSkrollex using [The Sting]
+[02:39:49] [Server thread/INFO]: Named entity brm['Storm Wasp'/2075, l='ServerLevel[world]', x=241.17, y=116.90, z=409.43] died: Storm Wasp was slain by TioSkrollex using [Blademaster's Disintegrator of Evisceration]
+[02:39:51] [Server thread/INFO]: Named entity brm['Storm Wasp'/2073, l='ServerLevel[world]', x=245.13, y=116.13, z=407.54] died: Storm Wasp was slain by TioSkrollex using [Blademaster's Disintegrator of Evisceration]
+[02:39:52] [Server thread/INFO]: Named entity brm['Storm Wasp'/2074, l='ServerLevel[world]', x=245.32, y=-144.82, z=407.45] died: Storm Wasp was killed whilst fighting TioSkrollex
+[02:39:53] [Server thread/INFO]: Named entity bwk['Charged Bones'/1966, l='ServerLevel[world]', x=246.53, y=112.00, z=405.69] died: Charged Bones was slain by TioSkrollex using [Blademaster's Disintegrator of Evisceration]
+[02:39:56] [Server thread/INFO]: Named entity bwk['Charged Bones'/2031, l='ServerLevel[world]', x=247.73, y=112.00, z=404.50] died: Charged Bones was slain by TioSkrollex using [Blademaster's Disintegrator of Evisceration]
+[02:40:13] [Server thread/INFO]: Named entity brm['Storm Wasp'/2139, l='ServerLevel[world]', x=256.60, y=-151.92, z=410.03] died: Storm Wasp was killed whilst fighting Danielcf37
+[02:40:15] [Server thread/INFO]: Named entity brm['Storm Wasp'/2140, l='ServerLevel[world]', x=256.16, y=-151.55, z=410.59] died: Storm Wasp was killed whilst fighting Danielcf37
+[02:40:16] [Server thread/INFO]: Named entity brm['Storm Wasp'/2138, l='ServerLevel[world]', x=257.51, y=-150.97, z=410.75] died: Storm Wasp was killed whilst fighting Danielcf37
+[02:40:20] [Server thread/INFO]: Named entity bvo['Lightning Elemental'/2083, l='ServerLevel[world]', x=258.35, y=104.00, z=412.50] died: Lightning Elemental was shot by TioSkrollex using [The Sting]
+[02:40:24] [Server thread/INFO]: Named entity bvo['Lightning Elemental'/2146, l='ServerLevel[world]', x=247.46, y=109.30, z=412.92] died: Lightning Elemental was slain by TioSkrollex using [Blademaster's Disintegrator of Evisceration]
+[02:40:29] [Server thread/INFO]: Named entity bvo['Lightning Elemental'/2053, l='ServerLevel[world]', x=237.55, y=104.00, z=445.28] died: Lightning Elemental was shot by Danielcf37 using [Watcher's Bow of Healing]
+[02:40:41] [Server thread/INFO]: Named entity bvo['Lightning Elemental'/2193, l='ServerLevel[world]', x=246.50, y=104.00, z=420.99] died: Lightning Elemental was shot by TioSkrollex using [The Sting]
+[02:40:46] [Server thread/INFO]: Named entity bvo['Lightning Elemental'/2194, l='ServerLevel[world]', x=253.50, y=104.00, z=411.88] died: Lightning Elemental was shot by TioSkrollex using [The Sting]
+[02:40:48] [Server thread/INFO]: Named entity bwo['☆ Herald of Lightning ☆'/2192, l='ServerLevel[world]', x=254.81, y=104.00, z=410.86] died: ☆ Herald of Lightning ☆ was slain by TioSkrollex using [Blademaster's Disintegrator of Evisceration]
+[02:40:48] [Server thread/INFO]: Named entity bwq['Void Imp'/2197, l='ServerLevel[world]', x=257.39, y=105.51, z=409.25] died: Void Imp was slain by TioSkrollex using [Blademaster's Disintegrator of Evisceration]
+[02:41:07] [Server thread/INFO]: Named entity bwq['Void Imp'/2195, l='ServerLevel[world]', x=241.57, y=-154.49, z=444.63] died: Void Imp was killed
+[02:41:16] [Server thread/INFO]: Named entity bwq['Void Imp'/2196, l='ServerLevel[world]', x=244.47, y=102.73, z=442.31] died: Void Imp was slain by TioSkrollex
+[02:41:46] [Server thread/INFO]: Named entity bwk['Charged Bones'/2351, l='ServerLevel[world]', x=292.64, y=115.00, z=422.56] died: Charged Bones was slain by TioSkrollex using [Blademaster's Disintegrator of Evisceration]
+[02:41:46] [Server thread/INFO]: Named entity bwk['Charged Bones'/2177, l='ServerLevel[world]', x=295.87, y=116.77, z=416.48] died: Charged Bones was shot by Danielcf37 using [Watcher's Bow of Healing]
+[02:42:09] [Server thread/INFO]: Named entity bwq['Void Imp'/2358, l='ServerLevel[world]', x=323.88, y=122.84, z=400.99] died: Void Imp starved to death
+[02:42:13] [Server thread/INFO]: Named entity bwq['Void Imp'/2414, l='ServerLevel[world]', x=291.03, y=116.82, z=414.00] died: Void Imp was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[02:42:17] [Server thread/INFO]: Named entity bwq['Void Imp'/2357, l='ServerLevel[world]', x=301.73, y=118.84, z=403.68] died: Void Imp starved to death
+[02:42:22] [Server thread/INFO]: Named entity bvo['Lightning Elemental'/2386, l='ServerLevel[world]', x=290.14, y=115.00, z=415.50] died: Lightning Elemental was shot by Danielcf37 using [Watcher's Bow of Healing]
+[02:42:24] [Server thread/INFO]: Named entity bwt['☆ Crystal Keeper ☆'/2387, l='ServerLevel[world]', x=293.23, y=-118.50, z=412.86] died: ☆ Crystal Keeper ☆ was killed
+[02:42:24] [Server thread/INFO]: Named entity bwq['Void Imp'/2437, l='ServerLevel[world]', x=292.02, y=-143.75, z=410.18] died: Void Imp was killed
+[02:42:37] [Server thread/INFO]: Named entity bwq['Void Imp'/2405, l='ServerLevel[world]', x=295.71, y=148.64, z=433.89] died: Void Imp starved to death
+[02:42:45] [Server thread/INFO]: Named entity brm['Storm Wasp'/2488, l='ServerLevel[world]', x=301.32, y=122.85, z=409.35] died: Storm Wasp was slain by TioSkrollex using [Blademaster's Disintegrator of Evisceration]
+[02:42:46] [Server thread/INFO]: Named entity brm['Storm Wasp'/2489, l='ServerLevel[world]', x=299.82, y=121.23, z=409.73] died: Storm Wasp was slain by TioSkrollex using [Blademaster's Disintegrator of Evisceration]
+[02:42:51] [Server thread/INFO]: Named entity bvo['Lightning Elemental'/2440, l='ServerLevel[world]', x=286.73, y=121.00, z=408.91] died: Lightning Elemental was blown up by Lightning Elemental
+[02:42:53] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/2473, l='ServerLevel[world]', x=251.50, y=130.00, z=332.50] died: Abyssal Spider suffocated in a wall
+[02:42:53] [Server thread/INFO]: Named entity brm['Storm Wasp'/2539, l='ServerLevel[world]', x=291.32, y=-138.46, z=405.56] died: Storm Wasp was killed whilst fighting TioSkrollex
+[02:42:54] [Server thread/INFO]: Named entity brm['Storm Wasp'/2490, l='ServerLevel[world]', x=293.30, y=-139.00, z=406.29] died: Storm Wasp was killed whilst fighting TioSkrollex
+[02:42:54] [Server thread/INFO]: Named entity bvo['Lightning Elemental'/2399, l='ServerLevel[world]', x=290.97, y=121.00, z=417.00] died: Lightning Elemental burned to death
+[02:42:54] [Server thread/INFO]: Named entity bvo['Lightning Elemental'/2477, l='ServerLevel[world]', x=284.51, y=121.00, z=414.02] died: Lightning Elemental burned to death
+[02:42:55] [Server thread/INFO]: Named entity brm['Storm Wasp'/2538, l='ServerLevel[world]', x=291.32, y=121.12, z=405.96] died: Storm Wasp was slain by TioSkrollex using [Blademaster's Disintegrator of Evisceration]
+[02:42:56] [Server thread/INFO]: Named entity brm['Storm Wasp'/2540, l='ServerLevel[world]', x=292.34, y=-138.00, z=407.66] died: Storm Wasp was killed whilst fighting TioSkrollex
+[02:43:11] [Server thread/INFO]: Named entity brm['Storm Wasp'/2585, l='ServerLevel[world]', x=291.46, y=116.49, z=421.88] died: Storm Wasp was slain by TioSkrollex using [Blademaster's Disintegrator of Evisceration]
+[02:43:11] [Server thread/INFO]: Named entity brm['Storm Wasp'/2584, l='ServerLevel[world]', x=288.46, y=-142.50, z=414.24] died: Storm Wasp was killed whilst fighting Danielcf37
+[02:43:23] [Server thread/INFO]: Named entity brm['Storm Wasp'/2583, l='ServerLevel[world]', x=296.20, y=-137.82, z=423.92] died: Storm Wasp was killed whilst fighting Danielcf37
+[02:43:23] [Server thread/INFO]: Named entity bvo['Lightning Elemental'/2493, l='ServerLevel[world]', x=289.88, y=130.00, z=413.81] died: Lightning Elemental was slain by TioSkrollex using [Blademaster's Disintegrator of Evisceration]
+[02:43:29] [Server thread/INFO]: Named entity bvo['Lightning Elemental'/2590, l='ServerLevel[world]', x=288.29, y=121.00, z=421.29] died: Lightning Elemental was shot by Danielcf37 using [Watcher's Bow of Healing]
+[02:43:30] [Server thread/INFO]: Named entity bvo['Lightning Elemental'/2591, l='ServerLevel[world]', x=299.01, y=120.75, z=414.92] died: Lightning Elemental withered away whilst fighting TioSkrollex
+[02:43:46] [Server thread/INFO]: Named entity bvo['Lightning Elemental'/2385, l='ServerLevel[world]', x=294.50, y=130.00, z=425.85] died: Lightning Elemental was shot by Danielcf37 using [Watcher's Bow of Healing]
+[02:44:44] [Server thread/WARN]: UUID of added entity already exists: buy['Glow Item Frame'/2704, l='ServerLevel[world]', x=-53.50, y=171.03, z=283.50]
+[02:45:23] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:45:23] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:45:23] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:45:26] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:45:26] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:45:26] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:45:33] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:45:33] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:45:33] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:45:37] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:45:37] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:45:37] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:45:41] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:45:41] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:45:41] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:45:44] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:45:44] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:45:44] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:45:46] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:45:46] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:45:46] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:45:49] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:45:49] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:45:49] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:45:53] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:45:53] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:45:53] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:45:54] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:45:54] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:45:54] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:46:14] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:46:14] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:46:14] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:46:16] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:46:16] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:46:16] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:46:18] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:46:18] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:46:18] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:46:19] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:46:19] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:46:19] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:46:21] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:46:21] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:46:21] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:46:24] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:46:24] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:46:24] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:46:29] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:46:29] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:46:29] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:46:30] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:46:30] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:46:30] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:46:46] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:46:46] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:46:46] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:46:56] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:46:56] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:46:56] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:46:57] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:46:57] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:46:57] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:47:01] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:47:01] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:47:01] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:47:08] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:47:08] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:47:08] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:47:11] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:47:11] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:47:11] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:47:11] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:47:11] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:47:11] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:47:16] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:47:16] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:47:16] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:47:18] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:47:18] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:47:18] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:47:53] [Server thread/INFO]: Named entity bwk['Charged Bones'/5710, l='ServerLevel[world]', x=151.25, y=120.88, z=410.32] died: Charged Bones was killed whilst fighting TioSkrollex
+[02:47:54] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:47:54] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:47:54] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:47:55] [Server thread/INFO]: Named entity bwk['Stormcaller'/5714, l='ServerLevel[world]', x=151.50, y=120.88, z=414.76] died: Stormcaller was slain by TioSkrollex using [Overseer's Diamond Pickaxe of Detonation]
