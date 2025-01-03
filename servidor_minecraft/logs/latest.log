@@ -450,3 +450,108 @@
 [03:06:14] [Server thread/ERROR]: Display entityNot a string
 [03:08:27] [Server thread/INFO]: Named entity bwo['☆ Herald of Lightning ☆'/9183, l='ServerLevel[world]', x=119.49, y=109.06, z=479.29] died: ☆ Herald of Lightning ☆ was slain by TioSkrollex using [Blademaster's Disintegrator of Evisceration]
 [03:08:36] [Server thread/INFO]: Named entity bwk['Charged Bones'/9838, l='ServerLevel[world]', x=146.88, y=109.00, z=483.94] died: Charged Bones was slain by TioSkrollex using [Blademaster's Disintegrator of Evisceration]
+[03:08:50] [Server thread/INFO]: Named entity bwk['Charged Bones'/9902, l='ServerLevel[world]', x=143.73, y=109.06, z=478.50] died: death.attack.magic.item
+[03:08:50] [Server thread/INFO]: Named entity bwk['Charged Bones'/9900, l='ServerLevel[world]', x=144.96, y=109.06, z=478.50] died: death.attack.magic.item
+[03:08:50] [Server thread/INFO]: Named entity bwk['Charged Bones'/9904, l='ServerLevel[world]', x=145.23, y=109.06, z=478.50] died: death.attack.magic.item
+[03:08:52] [Server thread/INFO]: Named entity bvo['Lightning Elemental'/9907, l='ServerLevel[world]', x=133.35, y=109.06, z=479.50] died: Lightning Elemental was slain by TioSkrollex using [Blademaster's Disintegrator of Evisceration]
+[03:09:02] [Server thread/INFO]: Named entity brm['Storm Wisp'/9974, l='ServerLevel[world]', x=174.40, y=112.00, z=486.35] died: Storm Wisp was slain by TioSkrollex using [Blademaster's Disintegrator of Evisceration]
+[03:09:02] [Server thread/INFO]: Named entity bwk['Stormcaller'/9906, l='ServerLevel[world]', x=173.05, y=109.00, z=484.59] died: Stormcaller was slain by TioSkrollex using [Blademaster's Disintegrator of Evisceration]
+[03:09:03] [Server thread/INFO]: Named entity brm['Storm Wisp'/9976, l='ServerLevel[world]', x=170.13, y=-149.77, z=484.44] died: Storm Wisp was killed whilst fighting TioSkrollex
+[03:09:17] [Server thread/INFO]: Named entity bwq['Void Imp'/9998, l='ServerLevel[world]', x=174.42, y=-145.74, z=481.83] died: Void Imp was killed
+[03:09:18] [Server thread/INFO]: Named entity bvo['Lightning Elemental'/9995, l='ServerLevel[world]', x=191.70, y=109.00, z=489.50] died: death.attack.magic.item
+[03:09:27] [Server thread/INFO]: Named entity bwk['Stormcaller'/10011, l='ServerLevel[world]', x=147.61, y=109.06, z=477.50] died: Stormcaller was shot by TioSkrollex using [The Sting]
+[03:09:28] [Server thread/INFO]: Named entity bvo['Lightning Elemental'/10003, l='ServerLevel[world]', x=143.16, y=109.06, z=477.51] died: Lightning Elemental was shot by TioSkrollex using [The Sting]
+[03:09:30] [Server thread/INFO]: Named entity bvo['Lightning Elemental'/10004, l='ServerLevel[world]', x=139.62, y=109.06, z=477.50] died: Lightning Elemental was shot by Danielcf37 using [Watcher's Bow of Healing]
+[03:09:30] [Server thread/INFO]: Named entity bwk['Stormcaller'/10010, l='ServerLevel[world]', x=141.05, y=109.06, z=477.42] died: Stormcaller was shot by TioSkrollex using [The Sting]
+[03:09:33] [Server thread/INFO]: Named entity bwk['Charged Bones'/9856, l='ServerLevel[world]', x=140.90, y=109.06, z=477.50] died: Charged Bones was shot by TioSkrollex using [The Sting]
+[03:09:34] [Server thread/INFO]: Named entity bwq['Void Imp'/9996, l='ServerLevel[world]', x=132.12, y=-149.50, z=479.23] died: Void Imp was killed
+[03:09:38] [Server thread/INFO]: Named entity bvz['☆ Overlord ☆'/9999, l='ServerLevel[world]', x=141.69, y=109.06, z=477.52] died: ☆ Overlord ☆ was killed whilst fighting Danielcf37
+[03:09:44] [Server thread/INFO]: Named entity bwq['Void Imp'/9997, l='ServerLevel[world]', x=198.79, y=115.31, z=473.18] died: Void Imp starved to death
+[03:10:05] [Server thread/INFO]: Named entity bvo['Lightning Elemental'/10161, l='ServerLevel[world]', x=188.34, y=110.00, z=479.42] died: Lightning Elemental was blown up by Lightning Elemental
+[03:10:08] [Server thread/INFO]: Named entity bwo['Wraith'/10184, l='ServerLevel[world]', x=180.75, y=88.00, z=499.95] died: Wraith fell from a high place
+[03:10:20] [Server thread/INFO]: Named entity brm['Storm Wasp'/10178, l='ServerLevel[world]', x=188.68, y=111.17, z=469.27] died: Storm Wasp was blown up by Lightning Elemental
+[03:10:20] [Server thread/INFO]: Named entity brm['Storm Wasp'/10177, l='ServerLevel[world]', x=189.17, y=111.51, z=467.89] died: Storm Wasp was blown up by Lightning Elemental
+[03:10:20] [Server thread/INFO]: Named entity bvo['Lightning Elemental'/10001, l='ServerLevel[world]', x=190.15, y=115.28, z=460.69] died: Lightning Elemental was struck by lightning
+[03:10:21] [Server thread/INFO]: Named entity bvo['Lightning Elemental'/10006, l='ServerLevel[world]', x=179.95, y=88.00, z=501.06] died: Lightning Elemental was doomed to fall
+[03:10:24] [Server thread/INFO]: Named entity brm['Storm Wasp'/10215, l='ServerLevel[world]', x=199.39, y=-150.48, z=463.38] died: Storm Wasp was killed whilst fighting Danielcf37
+[03:10:33] [Server thread/INFO]: Named entity brm['Storm Wasp'/10179, l='ServerLevel[world]', x=163.60, y=-137.20, z=486.05] died: Storm Wasp was killed whilst fighting TioSkrollex
+[03:10:48] [Server thread/INFO]: Named entity brm['Storm Wasp'/10217, l='ServerLevel[world]', x=163.83, y=124.46, z=484.50] died: Storm Wasp was shot by Danielcf37 using [Watcher's Bow of Healing]
+[03:10:48] [Server thread/INFO]: Named entity brm['Storm Wasp'/10216, l='ServerLevel[world]', x=160.64, y=-138.00, z=483.62] died: Storm Wasp was killed whilst fighting Danielcf37
+[03:10:52] [Server thread/INFO]: Named entity bwq['Void Imp'/10258, l='ServerLevel[world]', x=213.87, y=123.52, z=469.79] died: Void Imp was blown up by Lightning Elemental
+[03:10:56] [Server thread/INFO]: Named entity brm['Storm Wasp'/10293, l='ServerLevel[world]', x=213.28, y=123.05, z=471.02] died: Storm Wasp was killed whilst fighting TioSkrollex
+[03:10:56] [Server thread/INFO]: Named entity bvn['Voidling'/10276, l='ServerLevel[world]', x=214.49, y=122.00, z=469.67] died: Voidling was slain by TioSkrollex using [Blademaster's Disintegrator of Evisceration]
+[03:10:58] [Server thread/INFO]: Named entity brm['Storm Wasp'/10294, l='ServerLevel[world]', x=212.44, y=-137.64, z=469.54] died: Storm Wasp was killed whilst fighting TioSkrollex
+[03:11:00] [Server thread/INFO]: Named entity brm['Storm Wasp'/10295, l='ServerLevel[world]', x=213.52, y=126.31, z=468.19] died: Storm Wasp was slain by TioSkrollex using [Blademaster's Disintegrator of Evisceration]
+[03:11:11] [Server thread/INFO]: Named entity bwk['Stormcaller'/10000, l='ServerLevel[world]', x=212.81, y=122.00, z=477.99] died: Stormcaller was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[03:11:12] [Server thread/INFO]: Named entity brm['Storm Wisp'/10340, l='ServerLevel[world]', x=211.67, y=-138.00, z=475.13] died: Storm Wisp was killed whilst fighting Danielcf37
+[03:11:22] [Server thread/INFO]: Named entity bwo['Wraith'/10269, l='ServerLevel[world]', x=211.30, y=123.00, z=463.40] died: Wraith was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[03:11:23] [Server thread/INFO]: Named entity bwq['Void Imp'/10257, l='ServerLevel[world]', x=228.94, y=139.80, z=489.85] died: Void Imp starved to death
+[03:11:37] [Server thread/INFO]: Named entity bwo['Wraith'/10382, l='ServerLevel[world]', x=219.04, y=133.00, z=475.21] died: Wraith was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[03:11:38] [Server thread/INFO]: Named entity bwo['Wraith'/10381, l='ServerLevel[world]', x=213.47, y=122.00, z=479.71] died: Wraith was doomed to fall
+[03:11:44] [Server thread/INFO]: Named entity bwo['Wraith'/10268, l='ServerLevel[world]', x=215.76, y=133.00, z=486.50] died: Wraith was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[03:11:57] [Server thread/INFO]: Named entity bvo['Lightning Elemental'/10432, l='ServerLevel[world]', x=218.67, y=133.00, z=481.33] died: Lightning Elemental was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[03:12:03] [Server thread/INFO]: Named entity bwq['Void Imp'/10413, l='ServerLevel[world]', x=222.60, y=134.09, z=470.56] died: Void Imp was killed whilst fighting TioSkrollex
+[03:12:04] [Server thread/INFO]: Named entity bwk['Charged Bones'/10422, l='ServerLevel[world]', x=219.20, y=133.00, z=475.64] died: Charged Bones was slain by TioSkrollex using [Blademaster's Disintegrator of Evisceration]
+[03:12:05] [Server thread/INFO]: Named entity bwk['Charged Bones'/10426, l='ServerLevel[world]', x=220.57, y=132.30, z=472.79] died: Charged Bones was slain by TioSkrollex using [Blademaster's Disintegrator of Evisceration]
+[03:12:06] [Server thread/INFO]: Named entity bvo['Lightning Elemental'/10434, l='ServerLevel[world]', x=221.02, y=133.56, z=473.48] died: Lightning Elemental was shot by Danielcf37 using [Watcher's Bow of Healing]
+[03:12:06] [Server thread/INFO]: Named entity bwk['Charged Bones'/10428, l='ServerLevel[world]', x=220.52, y=133.00, z=471.64] died: Charged Bones was slain by TioSkrollex using [Blademaster's Disintegrator of Evisceration]
+[03:12:08] [Server thread/INFO]: Named entity bwk['Charged Bones'/10424, l='ServerLevel[world]', x=220.09, y=132.30, z=473.43] died: Charged Bones was burnt to a crisp whilst fighting TioSkrollex
+[03:12:13] [Server thread/INFO]: Named entity bvz['☆ Overlord ☆'/10183, l='ServerLevel[world]', x=221.31, y=133.00, z=469.68] died: ☆ Overlord ☆ was killed whilst fighting Danielcf37
+[03:12:17] [Server thread/INFO]: Named entity bwq['Void Imp'/10401, l='ServerLevel[world]', x=184.50, y=142.23, z=498.76] died: Void Imp starved to death
+[03:12:22] [Server thread/INFO]: Named entity bwq['Void Imp'/10412, l='ServerLevel[world]', x=177.15, y=130.13, z=515.40] died: Void Imp starved to death
+[03:12:22] [Server thread/INFO]: Named entity bwq['Void Imp'/10415, l='ServerLevel[world]', x=169.41, y=154.60, z=499.27] died: Void Imp starved to death
+[03:12:23] [Server thread/INFO]: Named entity bwq['Void Imp'/10420, l='ServerLevel[world]', x=222.17, y=146.98, z=479.90] died: Void Imp starved to death
+[03:12:33] [Server thread/INFO]: Named entity bwq['Void Imp'/10454, l='ServerLevel[world]', x=207.47, y=123.61, z=492.88] died: Void Imp starved to death
+[03:12:33] [Server thread/INFO]: Named entity bwq['Void Imp'/10455, l='ServerLevel[world]', x=200.09, y=159.04, z=500.74] died: Void Imp starved to death
+[03:12:36] [Server thread/INFO]: Named entity bvo['Lightning Elemental'/10319, l='ServerLevel[world]', x=173.66, y=131.00, z=463.60] died: Lightning Elemental was slain by TioSkrollex using [Blademaster's Disintegrator of Evisceration]
+[03:12:43] [Server thread/INFO]: Named entity bwq['Void Imp'/10489, l='ServerLevel[world]', x=215.14, y=170.30, z=480.13] died: Void Imp starved to death
+[03:12:56] [Server thread/INFO]: Named entity bwq['Void Imp'/10542, l='ServerLevel[world]', x=203.37, y=156.76, z=473.39] died: Void Imp starved to death
+[03:13:04] [Server thread/INFO]: Named entity bvo['Lightning Elemental'/10052, l='ServerLevel[world]', x=230.16, y=109.00, z=481.47] died: Lightning Elemental was shot by Danielcf37 using [Watcher's Bow of Healing]
+[03:13:12] [Server thread/INFO]: Named entity bvo['Lightning Elemental'/10002, l='ServerLevel[world]', x=168.14, y=122.00, z=468.51] died: Lightning Elemental was slain by TioSkrollex using [Blademaster's Disintegrator of Evisceration]
+[03:13:15] [Server thread/INFO]: Named entity bwq['Void Imp'/10626, l='ServerLevel[world]', x=205.78, y=-150.09, z=476.98] died: Void Imp was killed
+[03:13:18] [Server thread/INFO]: Named entity bwk['Charged Bones'/10230, l='ServerLevel[world]', x=187.67, y=121.00, z=461.20] died: Charged Bones was slain by TioSkrollex using [Blademaster's Disintegrator of Evisceration]
+[03:13:22] [Server thread/INFO]: Named entity bwq['Void Imp'/10602, l='ServerLevel[world]', x=218.88, y=108.24, z=478.69] died: Void Imp was slain by Danielcf37 using [Overseer's Netherite Pickaxe of Detonation]
+[03:13:27] [Server thread/INFO]: Named entity bwq['Void Imp'/10586, l='ServerLevel[world]', x=205.91, y=147.23, z=465.33] died: Void Imp starved to death
+[03:13:29] [Server thread/INFO]: Named entity bwq['Void Imp'/10644, l='ServerLevel[world]', x=199.92, y=-149.43, z=481.91] died: Void Imp was killed
+[03:13:34] [Server thread/INFO]: Named entity bwk['Stormcaller'/10012, l='ServerLevel[world]', x=197.62, y=109.00, z=486.52] died: Stormcaller was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[03:13:37] [Server thread/INFO]: Named entity bwk['Charged Bones'/10519, l='ServerLevel[world]', x=199.73, y=109.00, z=486.13] died: Charged Bones was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[03:13:37] [Server thread/INFO]: Named entity bwq['Void Imp'/10595, l='ServerLevel[world]', x=207.56, y=138.72, z=463.55] died: Void Imp starved to death
+[03:13:39] [Server thread/INFO]: Named entity brm['Storm Wisp'/10670, l='ServerLevel[world]', x=199.10, y=-148.33, z=486.54] died: Storm Wisp was killed whilst fighting Danielcf37
+[03:13:45] [Server thread/INFO]: Named entity bvz['☆ Overlord ☆'/10264, l='ServerLevel[world]', x=200.23, y=109.00, z=482.75] died: ☆ Overlord ☆ was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[03:13:45] [Server thread/INFO]: Named entity bwq['Void Imp'/10669, l='ServerLevel[world]', x=201.79, y=-149.74, z=482.06] died: Void Imp was killed whilst fighting Danielcf37
+[03:13:52] [Server thread/INFO]: Named entity bvo['Lightning Elemental'/10720, l='ServerLevel[world]', x=170.74, y=145.00, z=473.74] died: Lightning Elemental was blown up by Lightning Elemental
+[03:13:58] [Server thread/INFO]: Named entity bwq['Void Imp'/10738, l='ServerLevel[world]', x=206.18, y=-150.41, z=479.60] died: Void Imp was killed
+[03:14:01] [Server thread/INFO]: Named entity bwq['Void Imp'/10698, l='ServerLevel[world]', x=206.91, y=-149.44, z=478.37] died: Void Imp was killed
+[03:14:05] [Server thread/INFO]: Named entity brm['Storm Wasp'/10735, l='ServerLevel[world]', x=170.45, y=145.59, z=483.30] died: Storm Wasp was slain by TioSkrollex using [Blademaster's Disintegrator of Evisceration]
+[03:14:07] [Server thread/INFO]: Named entity brm['Storm Wasp'/10733, l='ServerLevel[world]', x=170.97, y=-115.00, z=483.59] died: Storm Wasp was killed whilst fighting TioSkrollex
+[03:14:08] [Server thread/INFO]: Named entity brm['Storm Wasp'/10734, l='ServerLevel[world]', x=172.67, y=145.13, z=483.59] died: Storm Wasp was slain by TioSkrollex using [Blademaster's Disintegrator of Evisceration]
+[03:14:10] [Server thread/INFO]: Named entity bwq['Void Imp'/10744, l='ServerLevel[world]', x=202.12, y=-150.25, z=472.27] died: Void Imp was killed
+[03:14:30] [Server thread/INFO]: Named entity bwk['Charged Bones'/10651, l='ServerLevel[world]', x=176.79, y=145.00, z=476.50] died: Charged Bones was burnt to a crisp whilst fighting TioSkrollex
+[03:14:33] [Server thread/INFO]: Named entity bwq['Void Imp'/10775, l='ServerLevel[world]', x=209.98, y=115.48, z=480.77] died: Void Imp was shot by Danielcf37 using [Watcher's Bow of Healing]
+[03:14:45] [Server thread/WARN]: UUID of added entity already exists: buy['Glow Item Frame'/10819, l='ServerLevel[world]', x=-53.50, y=171.03, z=283.50]
+[03:15:09] [Server thread/INFO]: Named entity bwq['Void Imp'/10804, l='ServerLevel[world]', x=205.30, y=110.90, z=480.45] died: Void Imp was slain by Danielcf37 using [Overseer's Netherite Pickaxe of Detonation]
+[03:15:11] [Server thread/INFO]: Named entity bwq['Void Imp'/10963, l='ServerLevel[world]', x=206.21, y=-149.60, z=478.87] died: Void Imp was killed
+[03:15:15] [Server thread/INFO]: Named entity bwk['Charged Bones'/10569, l='ServerLevel[world]', x=165.79, y=151.00, z=481.50] died: Charged Bones was shot by TioSkrollex using [The Sting]
+[03:15:23] [Server thread/INFO]: Named entity bwq['Void Imp'/10817, l='ServerLevel[world]', x=215.22, y=144.02, z=454.07] died: Void Imp starved to death
+[03:15:24] [Server thread/INFO]: Named entity bwo['Wraith'/10923, l='ServerLevel[world]', x=182.50, y=145.00, z=492.97] died: Wraith was slain by TioSkrollex using [Blademaster's Disintegrator of Evisceration]
+[03:15:31] [Server thread/INFO]: Named entity bwk['Charged Bones'/10756, l='ServerLevel[world]', x=208.05, y=109.06, z=476.54] died: Charged Bones was blown up by Danielcf37 using [Watcher's Bow of Healing]
+[03:15:33] [Server thread/INFO]: Named entity bwq['Void Imp'/11007, l='ServerLevel[world]', x=190.84, y=-149.64, z=482.73] died: Void Imp was killed
+[03:15:36] [Server thread/INFO]: Named entity bwq['Void Imp'/11037, l='ServerLevel[world]', x=203.45, y=-149.52, z=474.67] died: Void Imp was killed whilst fighting Danielcf37
+[03:15:44] [Server thread/INFO]: Named entity bwk['Charged Bones'/10572, l='ServerLevel[world]', x=214.50, y=145.00, z=471.89] died: Charged Bones was blown up by Lightning Elemental
+[03:15:44] [Server thread/INFO]: Named entity bwq['Void Imp'/11038, l='ServerLevel[world]', x=213.97, y=141.49, z=463.98] died: Void Imp was struck by lightning
+[03:15:45] [Server thread/INFO]: Named entity brm['Storm Wasp'/11188, l='ServerLevel[world]', x=215.48, y=-114.59, z=464.00] died: Storm Wasp was killed whilst fighting TioSkrollex
+[03:15:46] [Server thread/INFO]: TioSkrollex blew up
+[03:15:46] [Server thread/INFO]: Named entity brm['Storm Wasp'/11189, l='ServerLevel[world]', x=212.50, y=-114.90, z=464.85] died: Storm Wasp was killed whilst fighting TioSkrollex
+[03:15:46] [Server thread/INFO]: Named entity bwk['Charged Bones'/10262, l='ServerLevel[world]', x=191.05, y=109.00, z=482.50] died: Charged Bones was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[03:15:47] [Server thread/INFO]: Named entity bwk['Charged Bones'/10968, l='ServerLevel[world]', x=190.14, y=109.00, z=482.51] died: Charged Bones was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
+[03:16:04] [Server thread/INFO]: Named entity bwq['Void Imp'/11156, l='ServerLevel[world]', x=198.09, y=-150.47, z=484.83] died: Void Imp was killed
+[03:16:19] [Server thread/INFO]: Named entity bwq['Void Imp'/11160, l='ServerLevel[world]', x=205.65, y=137.50, z=451.87] died: Void Imp starved to death
+[03:16:31] [Server thread/INFO]: Named entity bwq['Void Imp'/11343, l='ServerLevel[world]', x=202.16, y=-149.22, z=479.07] died: Void Imp was killed
+[03:16:32] [Server thread/INFO]: Named entity brm['Storm Wasp'/11190, l='ServerLevel[world]', x=196.56, y=177.20, z=470.45] died: Storm Wasp was killed
+[03:16:33] [Server thread/ERROR]: Display entityNot a string
+[03:16:34] [Server thread/INFO]: Named entity bwq['Void Imp'/11348, l='ServerLevel[world]', x=205.48, y=-150.34, z=479.49] died: Void Imp was killed
+[03:16:38] [Server thread/ERROR]: Display entityNot a string
+[03:16:38] [Server thread/INFO]: Named entity bwq['Void Imp'/11374, l='ServerLevel[world]', x=204.81, y=-150.37, z=479.19] died: Void Imp was killed
+[03:16:48] [Server thread/INFO]: Named entity bwq['Void Imp'/11402, l='ServerLevel[world]', x=205.68, y=-150.39, z=472.45] died: Void Imp was killed
+[03:17:26] [Server thread/INFO]: Named entity bwq['Void Imp'/11404, l='ServerLevel[world]', x=190.25, y=142.28, z=463.74] died: Void Imp starved to death
+[03:18:33] [Server thread/INFO]: Named entity bwq['Void Imp'/11547, l='ServerLevel[world]', x=209.93, y=124.80, z=486.97] died: Void Imp withered away
