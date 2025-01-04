@@ -375,3 +375,42 @@
 [01:52:26] [Server thread/INFO]: Named entity brm['Storm Wasp'/6839, l='ServerLevel[world]', x=191.81, y=153.49, z=467.79] died: Storm Wasp was slain by TioSkrollex using [Emperor's Whirlwind of Evisceration]
 [01:53:07] [Server thread/INFO]: Named entity bvo['Lightning Elemental'/6740, l='ServerLevel[world]', x=174.30, y=131.00, z=458.19] died: Lightning Elemental was doomed to fall
 [01:54:08] [Server thread/INFO]: Named entity bwv['Abyssal Zombie'/7089, l='ServerLevel[world]', x=196.81, y=94.00, z=690.69] died: Abyssal Zombie was killed whilst fighting TioSkrollex
+[01:55:10] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[01:55:10] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[01:55:10] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[01:56:38] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[01:56:38] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[01:56:38] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[01:57:20] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[01:57:20] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[01:57:20] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[01:58:52] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[01:58:52] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[01:58:52] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[01:58:57] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[01:58:57] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[01:58:57] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[01:59:00] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[01:59:00] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[01:59:00] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[01:59:01] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[01:59:01] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[01:59:01] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[01:59:01] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[01:59:01] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[01:59:01] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[01:59:04] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[01:59:04] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[01:59:04] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[01:59:07] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[01:59:07] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[01:59:07] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[01:59:21] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[01:59:21] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[01:59:21] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:00:05] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:00:05] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:00:27] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:00:27] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:03:49] [Server thread/INFO]: [Danielcf37: Executed 5 command(s) from function 'npc:shade_black/3a']
+[02:04:11] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/9021, l='ServerLevel[world]', x=177.50, y=47.00, z=764.50] died: Abyssal Spider suffocated in a wall
