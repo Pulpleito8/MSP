@@ -592,3 +592,133 @@
 [02:34:48] [Server thread/INFO]: Named entity bvy['Harbinger'/12841, l='ServerLevel[world]', x=262.98, y=-149.58, z=1353.28] died: Harbinger was killed whilst fighting Danielcf37
 [02:34:51] [Server thread/INFO]: Named entity bwe['Abyssal Phantom'/12626, l='ServerLevel[world]', x=268.69, y=148.89, z=1329.17] died: Abyssal Phantom was killed whilst fighting Danielcf37
 [02:34:54] [Server thread/INFO]: Named entity bvy['Harbinger'/12866, l='ServerLevel[world]', x=267.25, y=149.46, z=1338.99] died: Harbinger was slain by Danielcf37 using [Immortal's Skullcrusher of Gluttony]
+[02:34:57] [Server thread/INFO]: Named entity bwv['Void Parasite'/12546, l='ServerLevel[world]', x=266.13, y=144.00, z=1336.66] died: Void Parasite was slain by Danielcf37 using [Immortal's Skullcrusher of Gluttony]
+[02:34:58] [Server thread/INFO]: Named entity bwe['Abyssal Phantom'/12518, l='ServerLevel[world]', x=267.06, y=149.24, z=1336.21] died: Abyssal Phantom was slain by Danielcf37 using [Immortal's Skullcrusher of Gluttony]
+[02:35:11] [Server thread/INFO]: Named entity bvy['Harbinger'/12823, l='ServerLevel[world]', x=269.56, y=-164.47, z=1334.56] died: Harbinger was killed
+[02:35:12] [Server thread/WARN]: UUID of added entity already exists: buy['Glow Item Frame'/12888, l='ServerLevel[world]', x=-53.50, y=171.03, z=283.50]
+[02:35:47] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:35:47] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:35:47] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:35:58] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:35:58] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:35:58] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:36:00] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:36:00] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:36:00] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:36:02] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:36:02] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:36:02] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:36:11] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:36:11] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:36:11] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:36:15] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:36:15] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:36:15] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:37:05] [Server thread/ERROR]: Display entityNot a string
+[02:37:05] [Server thread/ERROR]: Display entityNot a string
+[02:37:07] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:24,cr_leggings:1,cr_modifier:115,cr_rarity:3,cr_tier:9,display:{Lore:['{"text":"Epic Suffix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"d","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"30","color":"light_purple","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"9","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Leggings ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','[{"text":"[Aspect of Faith] ","color":"#FAED7A","bold":true,"italic":false},{"text":"Enemies slain by your melee attacks","color":"#FAF6B9","bold":false,"italic":false}]','{"text":"have a 20% chance of dropping a blessed orb. When you","color":"#FAF6B9","bold":false,"italic":false}','{"text":"pick up a blessed orb, you gain 30 s of Absorption II and","color":"#FAF6B9","bold":false,"italic":false}','{"text":"all your debuffs are removed.","color":"#FAF6B9","bold":false,"italic":false}'],Name:'{"text":"Rune of the Paladin","color":"#D19E13","bold":true,"italic":false}'}}}
+[02:37:07] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:37:08] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:24,cr_leggings:1,cr_modifier:115,cr_rarity:3,cr_tier:9,display:{Lore:['{"text":"Epic Suffix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"d","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"30","color":"light_purple","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"9","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Leggings ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','[{"text":"[Aspect of Faith] ","color":"#FAED7A","bold":true,"italic":false},{"text":"Enemies slain by your melee attacks","color":"#FAF6B9","bold":false,"italic":false}]','{"text":"have a 20% chance of dropping a blessed orb. When you","color":"#FAF6B9","bold":false,"italic":false}','{"text":"pick up a blessed orb, you gain 30 s of Absorption II and","color":"#FAF6B9","bold":false,"italic":false}','{"text":"all your debuffs are removed.","color":"#FAF6B9","bold":false,"italic":false}'],Name:'{"text":"Rune of the Paladin","color":"#D19E13","bold":true,"italic":false}'}}}
+[02:37:08] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:37:11] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:24,cr_leggings:1,cr_modifier:115,cr_rarity:3,cr_tier:9,display:{Lore:['{"text":"Epic Suffix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"d","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"30","color":"light_purple","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"9","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Leggings ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','[{"text":"[Aspect of Faith] ","color":"#FAED7A","bold":true,"italic":false},{"text":"Enemies slain by your melee attacks","color":"#FAF6B9","bold":false,"italic":false}]','{"text":"have a 20% chance of dropping a blessed orb. When you","color":"#FAF6B9","bold":false,"italic":false}','{"text":"pick up a blessed orb, you gain 30 s of Absorption II and","color":"#FAF6B9","bold":false,"italic":false}','{"text":"all your debuffs are removed.","color":"#FAF6B9","bold":false,"italic":false}'],Name:'{"text":"Rune of the Paladin","color":"#D19E13","bold":true,"italic":false}'}}}
+[02:37:11] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:37:11] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{AttributeModifiers:[{Amount:0.2d,AttributeName:"generic.movement_speed",Name:"generic.movement_speed",Operation:1,Slot:"offhand",UUID:[I;-1807004443,1304578772,-1349640852,-1695390879]},{Amount:0.2d,AttributeName:"generic.attack_speed",Name:"generic.attack_speed",Operation:1,Slot:"offhand",UUID:[I;-1959392656,-1206957896,-1542383709,2006684917]}],CustomModelData:55,HideFlags:32,display:{Lore:['{"text":"Offhand Item","color":"dark_gray","bold":false,"italic":false}','{"text":" "}','[{"text":"[Supercharged] ","color":"#FF6987","bold":true,"italic":false},{"text":"You have Strength III","color":"#FF878B","bold":false,"italic":false}]','{"text":"and Haste II while you have over 10 mana.","color":"#FF878B","bold":false,"italic":false}'],Name:'{"text":"Ball Lightning","color":"#FF3369","bold":true,"italic":false}'},supercharged:1b}}
+[02:37:11] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:37:16] [Server thread/ERROR]: Display entityNot a string
+[02:37:16] [Server thread/ERROR]: Display entityNot a string
+[02:37:47] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:24,cr_bow:1,cr_modifier:54,cr_rarity:4,cr_tier:8,display:{Lore:['{"text":"Legendary Suffix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"d","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"60","color":"light_purple","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"8","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Bow ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','[{"text":"[Empowered Healing Crystal] ","color":"#FAED7A","bold":true,"italic":false},{"text":"Shoot at a block","color":"#FAF6B9","bold":false,"italic":false}]','{"text":"near you to place a healing crystal (replacing","color":"#FAF6B9","bold":false,"italic":false}','{"text":"existing healing crystals) that grants nearby","color":"#FAF6B9","bold":false,"italic":false}','{"text":"players Regeneration III and Resistance I.","color":"#FAF6B9","bold":false,"italic":false}'],Name:'[{"text":"Voidtouched ","color":"#3F1859","bold":true,"italic":false},{"text":"Rune of Healing","color":"#8633BD","bold":true,"italic":false}]'}}}
+[02:39:01] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:25,cr_bow:1,cr_enchant:126,cr_rarity:4,cr_tier:8,dis_sharpshot:1b,display:{Lore:['{"text":"Legendary Prefix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"d","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"50","color":"light_purple","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"8","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Bow ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','{"text":"Power VII","color":"#BEDCFA","bold":true,"italic":false}','{"text":"Sharpshot III","color":"#BEDCFA","bold":true,"italic":false}','{"text":"Mending I","color":"#BEDCFA","bold":true,"italic":false}'],Name:'{"text":"Reaper\'s Rune","color":"#8633BD","bold":true,"italic":false}'}}}
+[02:39:01] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:24,cr_bow:1,cr_modifier:54,cr_rarity:4,cr_tier:8,display:{Lore:['{"text":"Legendary Suffix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"d","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"60","color":"light_purple","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"8","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Bow ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','[{"text":"[Empowered Healing Crystal] ","color":"#FAED7A","bold":true,"italic":false},{"text":"Shoot at a block","color":"#FAF6B9","bold":false,"italic":false}]','{"text":"near you to place a healing crystal (replacing","color":"#FAF6B9","bold":false,"italic":false}','{"text":"existing healing crystals) that grants nearby","color":"#FAF6B9","bold":false,"italic":false}','{"text":"players Regeneration III and Resistance I.","color":"#FAF6B9","bold":false,"italic":false}'],Name:'[{"text":"Voidtouched ","color":"#3F1859","bold":true,"italic":false},{"text":"Rune of Healing","color":"#8633BD","bold":true,"italic":false}]'}}}
+[02:39:01] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:39:01] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:39:01] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:39:01] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:39:01] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:39:07] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:39:07] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:39:26] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:39:26] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:39:26] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:39:30] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:39:30] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:39:30] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:39:31] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:39:31] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:39:31] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:39:31] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:39:31] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:39:31] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:39:34] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:39:34] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:39:34] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:39:37] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:39:37] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:39:37] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:39:41] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:39:41] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:39:41] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:39:54] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:39:54] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:39:54] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:39:54] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:39:54] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:39:54] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:39:55] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:39:55] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:39:55] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:40:25] [Server thread/WARN]: UUID of added entity already exists: buy['Glow Item Frame'/14571, l='ServerLevel[world]', x=-53.50, y=171.03, z=283.50]
+[02:40:37] [Server thread/INFO]: Named entity bwt['☆ Fallen Champion ☆'/14653, l='ServerLevel[world]', x=272.72, y=111.00, z=1417.82] died: ☆ Fallen Champion ☆ was killed whilst fighting TioSkrollex
+[02:40:40] [Server thread/INFO]: Named entity bwo['Wraith'/14672, l='ServerLevel[world]', x=250.26, y=112.92, z=1440.65] died: death.attack.magic.item
+[02:40:46] [Server thread/INFO]: Named entity bwe['Abyssal Phantom'/14665, l='ServerLevel[world]', x=265.05, y=113.13, z=1437.13] died: death.attack.magic.item
+[02:40:50] [Server thread/INFO]: Named entity bvo['Infested Creeper'/14656, l='ServerLevel[world]', x=263.50, y=111.00, z=1428.90] died: Infested Creeper was slain by Danielcf37 using [Immortal's Skullcrusher of Gluttony]
+[02:40:51] [Server thread/INFO]: Named entity bvo['Infested Creeper'/14655, l='ServerLevel[world]', x=264.47, y=111.00, z=1427.53] died: Infested Creeper was slain by Danielcf37 using [Immortal's Skullcrusher of Gluttony]
+[02:40:55] [Server thread/INFO]: Named entity bvy['Harbinger'/14747, l='ServerLevel[world]', x=262.82, y=116.23, z=1433.62] died: Harbinger was slain by Danielcf37 using [Immortal's Skullcrusher of Gluttony]
+[02:40:57] [Server thread/INFO]: Named entity bwo['Wraith'/14670, l='ServerLevel[world]', x=261.04, y=111.00, z=1426.67] died: Wraith was slain by Danielcf37 using [Immortal's Skullcrusher of Gluttony]
+[02:41:00] [Server thread/INFO]: Named entity bwo['Wraith'/14671, l='ServerLevel[world]', x=250.99, y=111.50, z=1438.48] died: Wraith was slain by TioSkrollex using [Emperor's Whirlwind of Evisceration]
+[02:41:04] [Server thread/INFO]: Named entity bwv['Abyssal Zombie'/12879, l='ServerLevel[world]', x=251.50, y=112.50, z=1440.35] died: Abyssal Zombie was slain by Danielcf37 using [Immortal's Skullcrusher of Gluttony]
+[02:41:07] [Server thread/INFO]: Named entity bwv['☆ Sculker ☆'/14720, l='ServerLevel[world]', x=253.24, y=111.00, z=1435.27] died: ☆ Sculker ☆ was slain by Danielcf37 using [Immortal's Skullcrusher of Gluttony]
+[02:41:27] [Server thread/INFO]: Named entity bwv['Abyssal Zombie'/14693, l='ServerLevel[world]', x=250.80, y=112.50, z=1439.73] died: Abyssal Zombie was slain by TioSkrollex using [Emperor's Whirlwind of Evisceration]
+[02:41:27] [Server thread/INFO]: Named entity bwv['Abyssal Zombie'/14763, l='ServerLevel[world]', x=249.50, y=112.50, z=1439.76] died: Abyssal Zombie was slain by TioSkrollex using [Emperor's Whirlwind of Evisceration]
+[02:41:33] [Server thread/INFO]: Named entity bwv['Void Parasite'/14812, l='ServerLevel[world]', x=255.36, y=111.00, z=1434.43] died: Void Parasite was burnt to a crisp whilst fighting TioSkrollex
+[02:41:37] [Server thread/INFO]: Named entity bvo['Infested Creeper'/14861, l='ServerLevel[world]', x=265.96, y=111.00, z=1468.58] died: death.attack.magic.item
+[02:41:41] [Server thread/INFO]: Named entity bwo['Wraith'/14813, l='ServerLevel[world]', x=275.57, y=111.00, z=1447.68] died: Wraith was shot by Wraith
+[02:41:42] [Server thread/INFO]: Named entity bwo['Wraith'/14815, l='ServerLevel[world]', x=273.62, y=111.00, z=1450.08] died: death.attack.magic.item
+[02:41:52] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/14897, l='ServerLevel[world]', x=272.50, y=189.00, z=1523.50] died: Abyssal Spider suffocated in a wall
+[02:41:52] [Server thread/INFO]: Named entity bwv['Abyssal Zombie'/14865, l='ServerLevel[world]', x=260.61, y=114.00, z=1450.76] died: Abyssal Zombie was slain by Danielcf37 using [Immortal's Skullcrusher of Gluttony]
+[02:41:57] [Server thread/INFO]: Named entity bwv['Void Parasite'/14910, l='ServerLevel[world]', x=259.41, y=114.00, z=1453.52] died: Void Parasite was slain by Danielcf37 using [Immortal's Skullcrusher of Gluttony]
+[02:42:01] [Server thread/INFO]: Named entity bwo['Wraith'/14814, l='ServerLevel[world]', x=267.38, y=113.54, z=1454.38] died: Wraith was slain by Danielcf37 using [Immortal's Skullcrusher of Gluttony]
+[02:42:07] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/14789, l='ServerLevel[world]', x=267.96, y=111.00, z=1468.95] died: death.attack.magic.item
+[02:42:09] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/14732, l='ServerLevel[world]', x=266.41, y=111.00, z=1469.50] died: Abyssal Spider was slain by TioSkrollex
+[02:42:09] [Server thread/INFO]: Named entity bwt['Phantasm'/14862, l='ServerLevel[world]', x=265.58, y=111.00, z=1468.49] died: Phantasm was slain by TioSkrollex
+[02:42:13] [Server thread/INFO]: Named entity bvy['Harbinger'/14978, l='ServerLevel[world]', x=263.16, y=121.78, z=1457.88] died: Harbinger was slain by Danielcf37 using [Immortal's Skullcrusher of Gluttony]
+[02:42:23] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/15014, l='ServerLevel[world]', x=298.82, y=128.10, z=1477.30] died: Abyssal Spider suffocated in a wall
+[02:42:27] [Server thread/INFO]: Named entity bwv['Abyssal Zombie'/14907, l='ServerLevel[world]', x=263.56, y=111.00, z=1475.63] died: Abyssal Zombie was slain by Danielcf37 using [Immortal's Skullcrusher of Gluttony]
+[02:42:32] [Server thread/INFO]: Named entity bwv['Abyssal Zombie'/15093, l='ServerLevel[world]', x=283.23, y=111.91, z=1452.65] died: Abyssal Zombie was slain by Danielcf37 using [Immortal's Skullcrusher of Gluttony]
+[02:42:38] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/15000, l='ServerLevel[world]', x=275.00, y=111.00, z=1435.44] died: Abyssal Spider was killed whilst fighting TioSkrollex
+[02:42:54] [Server thread/INFO]: Named entity bvy['Harbinger'/15140, l='ServerLevel[world]', x=293.01, y=-181.39, z=1452.24] died: Harbinger was killed whilst fighting Danielcf37
+[02:42:57] [Server thread/INFO]: Named entity bvo['Infested Creeper'/15108, l='ServerLevel[world]', x=274.02, y=111.00, z=1449.80] died: death.attack.magic.item
+[02:42:57] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/15106, l='ServerLevel[world]', x=275.69, y=111.00, z=1450.46] died: death.attack.magic.item
+[02:42:57] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/15105, l='ServerLevel[world]', x=277.11, y=111.94, z=1449.70] died: death.attack.magic.item
+[02:42:59] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/15107, l='ServerLevel[world]', x=275.30, y=112.76, z=1449.63] died: death.attack.magic.item
+[02:43:02] [Server thread/INFO]: Named entity bwv['Abyssal Zombie'/15148, l='ServerLevel[world]', x=288.72, y=111.00, z=1450.48] died: Abyssal Zombie was burnt to a crisp whilst fighting Danielcf37
+[02:43:08] [Server thread/INFO]: Named entity bvy['Harbinger'/15236, l='ServerLevel[world]', x=288.18, y=-184.53, z=1456.48] died: Harbinger was killed
+[02:43:10] [Server thread/INFO]: Named entity bvy['Harbinger'/15223, l='ServerLevel[world]', x=303.23, y=-183.65, z=1461.61] died: Harbinger was killed
+[02:43:14] [Server thread/INFO]: Named entity bwv['Abyssal Zombie'/15146, l='ServerLevel[world]', x=307.80, y=111.00, z=1443.50] died: Abyssal Zombie was burnt to a crisp whilst fighting TioSkrollex
+[02:43:21] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/15153, l='ServerLevel[world]', x=276.06, y=112.14, z=1459.71] died: Abyssal Spider was slain by Danielcf37 using [Immortal's Skullcrusher of Gluttony]
+[02:43:25] [Server thread/INFO]: Named entity bwt['☆ Fallen Champion ☆'/15117, l='ServerLevel[world]', x=275.49, y=111.00, z=1457.47] died: ☆ Fallen Champion ☆ was slain by Danielcf37 using [Immortal's Skullcrusher of Gluttony]
+[02:43:29] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/15287, l='ServerLevel[world]', x=318.30, y=116.10, z=1446.70] died: Abyssal Spider was burnt to a crisp whilst fighting TioSkrollex
+[02:43:32] [Server thread/INFO]: Named entity bwe['Abyssal Phantom'/15104, l='ServerLevel[world]', x=283.01, y=114.62, z=1456.63] died: Abyssal Phantom was shot by Danielcf37 using [Reaper's Siege Bow of Healing]
+[02:43:33] [Server thread/INFO]: Named entity bvy['Harbinger'/15274, l='ServerLevel[world]', x=304.70, y=-185.04, z=1451.20] died: Harbinger was killed
+[02:43:35] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/15315, l='ServerLevel[world]', x=275.63, y=111.00, z=1452.80] died: Abyssal Spider was slain by Danielcf37 using [Immortal's Skullcrusher of Gluttony]
+[02:43:42] [Server thread/INFO]: Named entity bvy['Harbinger'/15296, l='ServerLevel[world]', x=287.99, y=-184.08, z=1451.12] died: Harbinger was killed
+[02:43:42] [Server thread/INFO]: Named entity bwv['Abyssal Zombie'/14667, l='ServerLevel[world]', x=281.25, y=103.00, z=1462.79] died: Abyssal Zombie was burnt to a crisp whilst fighting Danielcf37
+[02:43:47] [Server thread/INFO]: Named entity bwt['Phantasm'/14990, l='ServerLevel[world]', x=282.35, y=103.00, z=1468.60] died: death.attack.magic.item
+[02:43:48] [Server thread/INFO]: Named entity bvy['Harbinger'/15388, l='ServerLevel[world]', x=289.69, y=-179.86, z=1476.34] died: Harbinger was killed whilst fighting Danielcf37
+[02:43:50] [Server thread/INFO]: Named entity bvy['Harbinger'/15430, l='ServerLevel[world]', x=287.93, y=107.95, z=1464.62] died: Harbinger was slain by Danielcf37 using [Immortal's Skullcrusher of Gluttony]
+[02:43:52] [Server thread/INFO]: Named entity bvy['Harbinger'/15415, l='ServerLevel[world]', x=303.00, y=-182.59, z=1451.43] died: Harbinger was killed whilst fighting TioSkrollex
+[02:44:04] [Server thread/INFO]: Named entity bvy['Harbinger'/15448, l='ServerLevel[world]', x=290.85, y=112.51, z=1470.72] died: Harbinger was slain by Danielcf37 using [Immortal's Skullcrusher of Gluttony]
+[02:44:08] [Server thread/INFO]: Named entity bvy['Harbinger'/15469, l='ServerLevel[world]', x=297.14, y=-188.10, z=1463.37] died: Harbinger was killed
+[02:44:25] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/15519, l='ServerLevel[world]', x=311.55, y=114.00, z=1454.62] died: Abyssal Spider was burnt to a crisp whilst fighting TioSkrollex
+[02:44:32] [Server thread/INFO]: Named entity bvy['Harbinger'/15535, l='ServerLevel[world]', x=282.20, y=115.74, z=1462.05] died: Harbinger was shot by TioSkrollex using [Voidtouched Apostle]
+[02:44:44] [Server thread/INFO]: Named entity bwe['Abyssal Phantom'/15526, l='ServerLevel[world]', x=283.58, y=120.62, z=1458.71] died: Abyssal Phantom was shot by Danielcf37 using [Reaper's Siege Bow of Healing]
+[02:44:59] [Server thread/INFO]: Named entity bwe['Abyssal Phantom'/15362, l='ServerLevel[world]', x=301.99, y=112.70, z=1474.66] died: Abyssal Phantom was slain by Danielcf37 using [Immortal's Skullcrusher of Gluttony]
