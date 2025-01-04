@@ -452,3 +452,51 @@
 [02:13:40] [Server thread/INFO]: Named entity bvw['Ghast'/9949, l='ServerLevel[world]', x=-298.00, y=145.85, z=817.00] died: Ghast was shot by Danielcf37 using [Watcher's Bow of Healing]
 [02:13:54] [Server thread/INFO]: Named entity bvz['Vermoid'/10017, l='ServerLevel[world]', x=-347.78, y=129.00, z=806.47] died: Vermoid was slain by Danielcf37 using [Immortal's Skullcrusher of Gluttony]
 [02:14:10] [Server thread/WARN]: UUID of added entity already exists: buy['Glow Item Frame'/10048, l='ServerLevel[world]', x=-53.50, y=171.03, z=283.50]
+[02:14:36] [Server thread/INFO]: Named entity bwe['Abyssal Phantom'/10146, l='ServerLevel[world]', x=205.96, y=95.94, z=968.50] died: Abyssal Phantom was slain by TioSkrollex using [Emperor's Whirlwind of Evisceration]
+[02:14:41] [Server thread/INFO]: Named entity bwv['☆ Sculker ☆'/10145, l='ServerLevel[world]', x=224.49, y=86.00, z=952.75] died: ☆ Sculker ☆ was slain by Danielcf37 using [Immortal's Skullcrusher of Gluttony]
+[02:14:43] [Server thread/INFO]: Named entity bvo['Infested Creeper'/10139, l='ServerLevel[world]', x=205.50, y=90.00, z=962.93] died: Infested Creeper was slain by TioSkrollex using [Emperor's Whirlwind of Evisceration]
+[02:14:51] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/10172, l='ServerLevel[world]', x=209.05, y=86.00, z=954.10] died: Abyssal Spider was slain by Danielcf37 using [Immortal's Skullcrusher of Gluttony]
+[02:14:59] [Server thread/INFO]: Named entity bwt['Phantasm'/10141, l='ServerLevel[world]', x=236.47, y=86.00, z=964.93] died: Phantasm was slain by Danielcf37 using [Immortal's Skullcrusher of Gluttony]
+[02:15:30] [Server thread/INFO]: Named entity bwv['Abyssal Zombie'/10256, l='ServerLevel[world]', x=222.50, y=90.00, z=973.07] died: Abyssal Zombie was shot by Wraith
+[02:15:39] [Server thread/INFO]: Named entity bwo['Wraith'/10286, l='ServerLevel[world]', x=219.18, y=86.00, z=962.23] died: Wraith was slain by Danielcf37 using [Immortal's Skullcrusher of Gluttony]
+[02:15:40] [Server thread/INFO]: Named entity bwo['Wraith'/10285, l='ServerLevel[world]', x=221.81, y=86.00, z=962.51] died: Wraith was slain by Danielcf37 using [Immortal's Skullcrusher of Gluttony]
+[02:15:43] [Server thread/INFO]: Named entity bwv['Abyssal Zombie'/10164, l='ServerLevel[world]', x=220.26, y=86.00, z=963.20] died: Abyssal Zombie was slain by Danielcf37 using [Immortal's Skullcrusher of Gluttony]
+[02:16:06] [Server thread/INFO]: Named entity bwt['Phantasm'/10345, l='ServerLevel[world]', x=234.65, y=74.00, z=992.65] died: Phantasm was doomed to fall by TioSkrollex using [Emperor's Whirlwind of Evisceration]
+[02:16:11] [Server thread/INFO]: Named entity bwt['Phantasm'/10343, l='ServerLevel[world]', x=226.04, y=79.50, z=980.80] died: Phantasm was doomed to fall by TioSkrollex using [Emperor's Whirlwind of Evisceration]
+[02:16:12] [Server thread/INFO]: Named entity bwt['Phantasm'/10360, l='ServerLevel[world]', x=222.52, y=90.00, z=981.10] died: Phantasm was slain by TioSkrollex using [Voidtouched Apostle]
+[02:16:21] [Server thread/INFO]: Named entity bwt['☆ Fallen Champion ☆'/10332, l='ServerLevel[world]', x=221.27, y=86.00, z=956.66] died: ☆ Fallen Champion ☆ was slain by TioSkrollex using [Emperor's Whirlwind of Evisceration]
+[02:16:24] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/10401, l='ServerLevel[world]', x=225.06, y=86.00, z=957.28] died: Abyssal Spider was slain by TioSkrollex using [Emperor's Whirlwind of Evisceration]
+[02:16:24] [Server thread/INFO]: Named entity bwv['☆ Sculker ☆'/10359, l='ServerLevel[world]', x=220.04, y=86.28, z=953.75] died: ☆ Sculker ☆ was slain by Danielcf37 using [Immortal's Skullcrusher of Gluttony]
+[02:17:57] [Server thread/WARN]: Danielcf37 moved wrongly!
+[02:19:10] [Server thread/INFO]: Named entity bwv['Void Parasite'/10607, l='ServerLevel[world]', x=231.13, y=94.50, z=1089.55] died: Void Parasite was slain by Danielcf37 using [Watcher's Bow of Healing]
+[02:19:27] [Server thread/INFO]: Named entity bvy['Harbinger'/10641, l='ServerLevel[world]', x=238.46, y=-211.27, z=1089.10] died: Harbinger was killed
+[02:19:40] [Server thread/INFO]: Named entity bvy['Harbinger'/10717, l='ServerLevel[world]', x=252.26, y=-209.41, z=1097.17] died: Harbinger was killed
+[02:19:56] [Server thread/INFO]: Named entity bwo['Wraith'/10728, l='ServerLevel[world]', x=287.30, y=75.00, z=1102.42] died: Wraith was shot by Wraith
+[02:19:58] [Server thread/INFO]: Named entity bwt['Phantasm'/10589, l='ServerLevel[world]', x=279.90, y=81.00, z=1093.47] died: Phantasm was slain by Danielcf37 using [Immortal's Skullcrusher of Gluttony]
+[02:19:58] [Server thread/INFO]: Named entity bwt['Phantasm'/10591, l='ServerLevel[world]', x=275.53, y=81.00, z=1093.50] died: Phantasm was slain by Danielcf37 using [Immortal's Skullcrusher of Gluttony]
+[02:20:15] [Server thread/INFO]: Named entity bwt['Phantasm'/10677, l='ServerLevel[world]', x=229.97, y=88.00, z=1079.14] died: Phantasm was slain by Danielcf37 using [Concentrated Adrenaline]
+[02:20:28] [Server thread/INFO]: Named entity bwt['Phantasm'/10729, l='ServerLevel[world]', x=238.03, y=88.36, z=1076.41] died: Phantasm was slain by Danielcf37 using [Immortal's Skullcrusher of Gluttony]
+[02:20:29] [Server thread/INFO]: Named entity bwv['☆ Sculker ☆'/10679, l='ServerLevel[world]', x=237.77, y=88.00, z=1077.48] died: ☆ Sculker ☆ was slain by Danielcf37 using [Immortal's Skullcrusher of Gluttony]
+[02:20:30] [Server thread/INFO]: Named entity bwv['Abyssal Zombie'/10620, l='ServerLevel[world]', x=240.20, y=81.00, z=1087.35] died: Abyssal Zombie was slain by TioSkrollex using [Emperor's Whirlwind of Evisceration]
+[02:20:35] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/10839, l='ServerLevel[world]', x=239.66, y=89.04, z=1078.82] died: Abyssal Spider was slain by Danielcf37 using [Immortal's Skullcrusher of Gluttony]
+[02:20:36] [Server thread/INFO]: Named entity bwv['Void Parasite'/10874, l='ServerLevel[world]', x=241.62, y=81.00, z=1087.30] died: Void Parasite was burnt to a crisp whilst fighting TioSkrollex
+[02:20:53] [Server thread/INFO]: Named entity bwo['Wraith'/10680, l='ServerLevel[world]', x=247.73, y=81.00, z=1080.30] died: Wraith was killed whilst fighting Danielcf37
+[02:20:54] [Server thread/INFO]: Named entity bvy['Harbinger'/10930, l='ServerLevel[world]', x=238.04, y=-212.86, z=1094.53] died: Harbinger was killed
+[02:20:56] [Server thread/INFO]: Named entity bwo['Wraith'/10681, l='ServerLevel[world]', x=251.23, y=81.00, z=1070.97] died: Wraith was slain by Danielcf37 using [Immortal's Skullcrusher of Gluttony]
+[02:21:08] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/10945, l='ServerLevel[world]', x=252.66, y=69.10, z=1113.70] died: Abyssal Spider suffocated in a wall
+[02:21:34] [Server thread/INFO]: Named entity bwv['Abyssal Zombie'/10966, l='ServerLevel[world]', x=249.50, y=81.00, z=1087.32] died: Abyssal Zombie was slain by Danielcf37 using [Immortal's Skullcrusher of Gluttony]
+[02:21:45] [Server thread/INFO]: Named entity bwv['Abyssal Zombie'/10929, l='ServerLevel[world]', x=256.45, y=81.00, z=1088.41] died: Abyssal Zombie was slain by Danielcf37 using [Immortal's Skullcrusher of Gluttony]
+[02:21:53] [Server thread/INFO]: Named entity bwe['Abyssal Phantom'/10725, l='ServerLevel[world]', x=248.11, y=83.69, z=1082.44] died: Abyssal Phantom was slain by Danielcf37 using [Immortal's Skullcrusher of Gluttony]
+[02:21:54] [Server thread/INFO]: Named entity bwt['Phantasm'/10986, l='ServerLevel[world]', x=239.90, y=88.00, z=1079.50] died: Phantasm was slain by TioSkrollex using [Emperor's Whirlwind of Evisceration]
+[02:21:57] [Server thread/INFO]: Named entity bwv['Abyssal Zombie'/11019, l='ServerLevel[world]', x=246.87, y=81.00, z=1079.89] died: Abyssal Zombie was slain by Danielcf37 using [Immortal's Skullcrusher of Gluttony]
+[02:22:06] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/10609, l='ServerLevel[world]', x=264.30, y=92.60, z=1075.70] died: Abyssal Spider was slain by TioSkrollex using [Emperor's Whirlwind of Evisceration]
+[02:22:18] [Server thread/INFO]: Named entity bvo['Infested Creeper'/10713, l='ServerLevel[world]', x=259.16, y=88.00, z=1106.07] died: Infested Creeper was slain by TioSkrollex using [Emperor's Whirlwind of Evisceration]
+[02:22:21] [Server thread/INFO]: Named entity bwv['Abyssal Zombie'/11047, l='ServerLevel[world]', x=259.79, y=88.00, z=1091.46] died: Abyssal Zombie was slain by TioSkrollex using [Voidtouched Apostle]
+[02:22:28] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/11094, l='ServerLevel[world]', x=259.82, y=91.10, z=1102.70] died: Abyssal Spider burned to death
+[02:22:28] [Server thread/INFO]: Named entity bvo['Infested Creeper'/10711, l='ServerLevel[world]', x=254.21, y=88.00, z=1079.21] died: Infested Creeper was slain by Danielcf37 using [Immortal's Skullcrusher of Gluttony]
+[02:22:36] [Server thread/INFO]: Named entity bwt['Phantasm'/11085, l='ServerLevel[world]', x=237.51, y=88.00, z=1077.50] died: Phantasm was slain by Danielcf37 using [Immortal's Skullcrusher of Gluttony]
+[02:22:48] [Server thread/INFO]: Named entity bwt['☆ Fallen Champion ☆'/10715, l='ServerLevel[world]', x=224.48, y=88.00, z=1070.00] died: ☆ Fallen Champion ☆ was slain by TioSkrollex using [Emperor's Whirlwind of Evisceration]
+[02:23:20] [Server thread/INFO]: Named entity bvy['Harbinger'/11166, l='ServerLevel[world]', x=226.43, y=-215.91, z=1089.93] died: Harbinger was killed
+[02:24:14] [Server thread/INFO]: Named entity bwe['Abyssal Phantom'/11257, l='ServerLevel[world]', x=255.64, y=115.08, z=1110.31] died: Abyssal Phantom was slain by Danielcf37 using [Immortal's Skullcrusher of Gluttony]
+[02:24:33] [Server thread/INFO]: Named entity bwt['Phantasm'/11301, l='ServerLevel[world]', x=220.03, y=87.00, z=1193.46] died: death.attack.magic.item
+[02:24:40] [Server thread/INFO]: Named entity bwv['☆ Sculker ☆'/11307, l='ServerLevel[world]', x=217.88, y=88.15, z=1193.67] died: ☆ Sculker ☆ was slain by TioSkrollex using [Emperor's Whirlwind of Evisceration]
