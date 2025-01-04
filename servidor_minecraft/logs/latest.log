@@ -1,337 +1,39 @@
-[21:00:45] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:00:47] [ServerMain/INFO]: Loaded 7 recipes
-[21:00:47] [ServerMain/INFO]: Loaded 1633 advancements
-[21:00:48] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[21:00:48] [Server thread/INFO]: Loading properties
-[21:00:48] [Server thread/INFO]: Default game type: SURVIVAL
-[21:00:48] [Server thread/INFO]: Generating keypair
-[21:00:48] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:00:48] [Server thread/INFO]: Using epoll channel type
-[21:00:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:00:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:00:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:00:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:00:48] [Server thread/INFO]: Preparing level "world"
-[21:00:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:00:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:00:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:00:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:00:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:00:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:00:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:00:52] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:00:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:00:52] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:00:53] [Worker-Main-3/INFO]: Preparing spawn area: 4%
-[21:00:53] [Worker-Main-1/INFO]: Preparing spawn area: 69%
-[21:00:54] [Server thread/INFO]: Time elapsed: 5419 ms
-[21:00:54] [Server thread/INFO]: Done (5.578s)! For help, type "help"
-[21:00:56] [Server thread/WARN]: UUID of added entity already exists: bga['Marker'/29, l='ServerLevel[world]', x=29999999.50, y=100.00, z=27115050.50]
-[21:00:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
-[21:00:56] [Server thread/WARN]: UUID of added entity already exists: bxe['Piglin'/40, l='ServerLevel[world]', x=659.50, y=5.00, z=508.50]
-[21:01:04] [Server thread/INFO]: Danielcf37[/127.133.49.52:53875] logged in with entity id 144 at (19.938157317195756, 173.5, 234.79732194835748)
-[21:01:04] [Server thread/INFO]: Danielcf37 joined the game
-[21:04:57] [Server thread/ERROR]: Display entityNot a string
-[21:04:57] [Server thread/ERROR]: Display entityNot a string
-[21:04:57] [Server thread/ERROR]: Display entityNot a string
-[21:05:19] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:24,cr_enchant:195,cr_leggings:1,cr_rarity:3,cr_tier:8,display:{Lore:['{"text":"Epic Prefix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"d","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"20","color":"light_purple","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"8","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Leggings ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','{"text":"Protection III","color":"#BEDCFA","bold":true,"italic":false}','{"text":"Blast Protection III","color":"#BEDCFA","bold":true,"italic":false}','{"text":"Unbreaking V","color":"#BEDCFA","bold":true,"italic":false}'],Name:'{"text":"Enigmatic Rune","color":"#D19E13","bold":true,"italic":false}'}}}
-[21:05:19] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:41,cr_boots:1,cr_chestplate:1,cr_helmet:1,cr_leggings:1,cr_rarity:3,cr_tier:7,cr_upgrade:14,display:{Lore:['{"text":"Epic Upgrade Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"d","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"20","color":"light_purple","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"7","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"any Armor item ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','{"text":"+10% Attack Speed","color":"blue","bold":false,"italic":false}','{"text":"+0.5 Armor Toughness","color":"blue","bold":false,"italic":false}'],Name:'{"text":"Rune of the Void","color":"#D19E13","bold":true,"italic":false}'}}}
-[21:05:19] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:24,cr_leggings:1,cr_modifier:115,cr_rarity:3,cr_tier:9,display:{Lore:['{"text":"Epic Suffix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"d","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"30","color":"light_purple","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"9","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Leggings ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','[{"text":"[Aspect of Faith] ","color":"#FAED7A","bold":true,"italic":false},{"text":"Enemies slain by your melee attacks","color":"#FAF6B9","bold":false,"italic":false}]','{"text":"have a 20% chance of dropping a blessed orb. When you","color":"#FAF6B9","bold":false,"italic":false}','{"text":"pick up a blessed orb, you gain 30 s of Absorption II and","color":"#FAF6B9","bold":false,"italic":false}','{"text":"all your debuffs are removed.","color":"#FAF6B9","bold":false,"italic":false}'],Name:'{"text":"Rune of the Paladin","color":"#D19E13","bold":true,"italic":false}'}}}
-[21:05:19] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[21:05:19] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[21:05:19] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[21:05:19] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[21:05:19] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[21:05:19] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[21:05:21] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
-[21:05:21] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
-[21:05:21] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
-[21:05:30] [Server thread/ERROR]: Display entityNot a string
-[21:05:30] [Server thread/ERROR]: Display entityNot a string
-[21:05:30] [Server thread/ERROR]: Display entityNot a string
-[21:05:51] [Server thread/ERROR]: Display entityNot a string
-[21:05:58] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:24,cr_boots:1,cr_chestplate:1,cr_enchant:184,cr_helmet:1,cr_leggings:1,cr_rarity:3,cr_tier:7,display:{Lore:['{"text":"Epic Prefix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"d","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"14","color":"light_purple","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"7","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"any Armor ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','{"text":"Protection IV","color":"#BEDCFA","bold":true,"italic":false}','{"text":"Unbreaking X","color":"#BEDCFA","bold":true,"italic":false}'],Name:'{"text":"Protox\' Rune","color":"#D19E13","bold":true,"italic":false}'}}}
-[21:05:58] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:41,cr_boots:1,cr_chestplate:1,cr_helmet:1,cr_leggings:1,cr_rarity:3,cr_tier:7,cr_upgrade:14,display:{Lore:['{"text":"Epic Upgrade Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"d","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"20","color":"light_purple","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"7","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"any Armor item ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','{"text":"+10% Attack Speed","color":"blue","bold":false,"italic":false}','{"text":"+0.5 Armor Toughness","color":"blue","bold":false,"italic":false}'],Name:'{"text":"Rune of the Void","color":"#D19E13","bold":true,"italic":false}'}}}
-[21:05:58] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:26,cr_boots:1,cr_modifier:87,cr_rarity:3,cr_tier:6,display:{Lore:['{"text":"Epic Suffix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"d","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"40","color":"light_purple","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"6","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Boots ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','[{"text":"[Leap Slam] ","color":"#D7E841","bold":true,"italic":false},{"text":"You have Jump Boost IV.","color":"#D5E876","bold":false,"italic":false}]','{"text":"After jumping, deal 6 damage to all nearby","color":"#D5E876","bold":false,"italic":false}','{"text":"enemies and knock them back. This attack","color":"#D5E876","bold":false,"italic":false}','{"text":"can trigger weapon abilities.","color":"#D5E876","bold":false,"italic":false}'],Name:'{"text":"Rune of Leaping","color":"#D19E13","bold":true,"italic":false}'}}}
-[21:05:58] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[21:05:58] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[21:05:58] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[21:05:58] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[21:05:58] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[21:05:58] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[21:06:00] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
-[21:06:00] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
-[21:06:00] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
-[21:06:52] [Server thread/ERROR]: Display entityNot a string
-[21:06:52] [Server thread/ERROR]: Display entityNot a string
-[21:06:52] [Server thread/ERROR]: Display entityNot a string
-[21:06:58] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:24,cr_boots:1,cr_chestplate:1,cr_enchant:184,cr_helmet:1,cr_leggings:1,cr_rarity:3,cr_tier:7,display:{Lore:['{"text":"Epic Prefix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"d","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"14","color":"light_purple","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"7","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"any Armor ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','{"text":"Protection IV","color":"#BEDCFA","bold":true,"italic":false}','{"text":"Unbreaking X","color":"#BEDCFA","bold":true,"italic":false}'],Name:'{"text":"Protox\' Rune","color":"#D19E13","bold":true,"italic":false}'}}}
-[21:07:05] [Server thread/ERROR]: Display entityNot a string
-[21:07:14] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:24,cr_enchant:195,cr_leggings:1,cr_rarity:3,cr_tier:8,display:{Lore:['{"text":"Epic Prefix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"d","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"20","color":"light_purple","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"8","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Leggings ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','{"text":"Protection III","color":"#BEDCFA","bold":true,"italic":false}','{"text":"Blast Protection III","color":"#BEDCFA","bold":true,"italic":false}','{"text":"Unbreaking V","color":"#BEDCFA","bold":true,"italic":false}'],Name:'{"text":"Enigmatic Rune","color":"#D19E13","bold":true,"italic":false}'}}}
-[21:07:14] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:41,cr_boots:1,cr_chestplate:1,cr_helmet:1,cr_leggings:1,cr_rarity:3,cr_tier:7,cr_upgrade:14,display:{Lore:['{"text":"Epic Upgrade Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"d","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"20","color":"light_purple","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"7","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"any Armor item ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','{"text":"+10% Attack Speed","color":"blue","bold":false,"italic":false}','{"text":"+0.5 Armor Toughness","color":"blue","bold":false,"italic":false}'],Name:'{"text":"Rune of the Void","color":"#D19E13","bold":true,"italic":false}'}}}
-[21:07:14] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:24,cr_leggings:1,cr_modifier:115,cr_rarity:3,cr_tier:9,display:{Lore:['{"text":"Epic Suffix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"d","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"30","color":"light_purple","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"9","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Leggings ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','[{"text":"[Aspect of Faith] ","color":"#FAED7A","bold":true,"italic":false},{"text":"Enemies slain by your melee attacks","color":"#FAF6B9","bold":false,"italic":false}]','{"text":"have a 20% chance of dropping a blessed orb. When you","color":"#FAF6B9","bold":false,"italic":false}','{"text":"pick up a blessed orb, you gain 30 s of Absorption II and","color":"#FAF6B9","bold":false,"italic":false}','{"text":"all your debuffs are removed.","color":"#FAF6B9","bold":false,"italic":false}'],Name:'{"text":"Rune of the Paladin","color":"#D19E13","bold":true,"italic":false}'}}}
-[21:07:14] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[21:07:14] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[21:07:14] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[21:07:14] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[21:07:14] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[21:07:14] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[21:07:17] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
-[21:07:17] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
-[21:07:17] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
-[21:09:56] [Server thread/ERROR]: Display entityNot a string
-[21:09:56] [Server thread/ERROR]: Display entityNot a string
-[21:09:56] [Server thread/ERROR]: Display entityNot a string
-[21:09:59] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:26,cr_boots:1,cr_modifier:87,cr_rarity:3,cr_tier:6,display:{Lore:['{"text":"Epic Suffix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"d","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"40","color":"light_purple","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"6","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Boots ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','[{"text":"[Leap Slam] ","color":"#D7E841","bold":true,"italic":false},{"text":"You have Jump Boost IV.","color":"#D5E876","bold":false,"italic":false}]','{"text":"After jumping, deal 6 damage to all nearby","color":"#D5E876","bold":false,"italic":false}','{"text":"enemies and knock them back. This attack","color":"#D5E876","bold":false,"italic":false}','{"text":"can trigger weapon abilities.","color":"#D5E876","bold":false,"italic":false}'],Name:'{"text":"Rune of Leaping","color":"#D19E13","bold":true,"italic":false}'}}}
-[21:10:01] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:26,cr_boots:1,cr_modifier:87,cr_rarity:3,cr_tier:6,display:{Lore:['{"text":"Epic Suffix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"d","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"40","color":"light_purple","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"6","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Boots ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','[{"text":"[Leap Slam] ","color":"#D7E841","bold":true,"italic":false},{"text":"You have Jump Boost IV.","color":"#D5E876","bold":false,"italic":false}]','{"text":"After jumping, deal 6 damage to all nearby","color":"#D5E876","bold":false,"italic":false}','{"text":"enemies and knock them back. This attack","color":"#D5E876","bold":false,"italic":false}','{"text":"can trigger weapon abilities.","color":"#D5E876","bold":false,"italic":false}'],Name:'{"text":"Rune of Leaping","color":"#D19E13","bold":true,"italic":false}'}}}
-[21:10:45] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:24,cr_boots:1,cr_chestplate:1,cr_enchant:184,cr_helmet:1,cr_leggings:1,cr_rarity:3,cr_tier:7,display:{Lore:['{"text":"Epic Prefix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"d","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"14","color":"light_purple","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"7","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"any Armor ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','{"text":"Protection IV","color":"#BEDCFA","bold":true,"italic":false}','{"text":"Unbreaking X","color":"#BEDCFA","bold":true,"italic":false}'],Name:'{"text":"Protox\' Rune","color":"#D19E13","bold":true,"italic":false}'}}}
-[21:10:45] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:41,cr_boots:1,cr_chestplate:1,cr_helmet:1,cr_leggings:1,cr_rarity:3,cr_tier:7,cr_upgrade:14,display:{Lore:['{"text":"Epic Upgrade Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"d","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"20","color":"light_purple","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"7","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"any Armor item ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','{"text":"+10% Attack Speed","color":"blue","bold":false,"italic":false}','{"text":"+0.5 Armor Toughness","color":"blue","bold":false,"italic":false}'],Name:'{"text":"Rune of the Void","color":"#D19E13","bold":true,"italic":false}'}}}
-[21:10:45] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:26,cr_boots:1,cr_modifier:87,cr_rarity:3,cr_tier:6,display:{Lore:['{"text":"Epic Suffix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"d","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"40","color":"light_purple","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"6","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Boots ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','[{"text":"[Leap Slam] ","color":"#D7E841","bold":true,"italic":false},{"text":"You have Jump Boost IV.","color":"#D5E876","bold":false,"italic":false}]','{"text":"After jumping, deal 6 damage to all nearby","color":"#D5E876","bold":false,"italic":false}','{"text":"enemies and knock them back. This attack","color":"#D5E876","bold":false,"italic":false}','{"text":"can trigger weapon abilities.","color":"#D5E876","bold":false,"italic":false}'],Name:'{"text":"Rune of Leaping","color":"#D19E13","bold":true,"italic":false}'}}}
-[21:10:45] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[21:10:45] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[21:10:45] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[21:10:45] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[21:10:45] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[21:10:45] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[21:10:46] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
-[21:10:46] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
-[21:10:46] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
-[21:14:03] [Server thread/ERROR]: Display entityNot a string
-[21:14:03] [Server thread/ERROR]: Display entityNot a string
-[21:14:03] [Server thread/ERROR]: Display entityNot a string
-[21:16:41] [Server thread/ERROR]: Display entityNot a string
-[21:16:41] [Server thread/ERROR]: Display entityNot a string
-[21:16:41] [Server thread/ERROR]: Display entityNot a string
-[21:18:26] [Server thread/ERROR]: Display entityNot a string
-[21:18:26] [Server thread/ERROR]: Display entityNot a string
-[21:18:26] [Server thread/ERROR]: Display entityNot a string
-[21:22:03] [Server thread/ERROR]: Display entityNot a string
-[21:22:03] [Server thread/ERROR]: Display entityNot a string
-[21:22:03] [Server thread/ERROR]: Display entityNot a string
-[21:23:16] [Server thread/INFO]: Named entity bwq['Void Imp'/126, l='ServerLevel[world]', x=198.07, y=79.86, z=443.21] died: Void Imp starved to death
-[21:23:16] [Server thread/INFO]: Named entity bwq['Void Imp'/143, l='ServerLevel[world]', x=189.69, y=97.58, z=469.71] died: Void Imp starved to death
-[21:23:16] [Server thread/INFO]: Named entity bwq['Void Imp'/125, l='ServerLevel[world]', x=207.76, y=94.26, z=441.33] died: Void Imp starved to death
-[21:23:26] [Server thread/INFO]: Named entity bwo['Wraith'/3141, l='ServerLevel[world]', x=237.94, y=109.06, z=475.88] died: Wraith was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:23:27] [Server thread/INFO]: Named entity bwq['Void Imp'/3183, l='ServerLevel[world]', x=237.07, y=-149.99, z=475.69] died: Void Imp was killed
-[21:23:32] [Server thread/INFO]: Named entity bwq['Void Imp'/3184, l='ServerLevel[world]', x=232.76, y=109.67, z=480.43] died: death.attack.magic.item
-[21:23:32] [Server thread/INFO]: Named entity brm['Storm Wisp'/3208, l='ServerLevel[world]', x=230.56, y=111.11, z=481.10] died: death.attack.magic.item
-[21:23:33] [Server thread/INFO]: Named entity bwk['Stormcaller'/3194, l='ServerLevel[world]', x=231.32, y=109.00, z=479.46] died: death.attack.magic.item
-[21:23:33] [Server thread/INFO]: Named entity brm['Storm Wisp'/3210, l='ServerLevel[world]', x=230.79, y=110.94, z=480.13] died: death.attack.magic.item
-[21:23:34] [Server thread/INFO]: Named entity brm['Storm Wisp'/3212, l='ServerLevel[world]', x=229.07, y=110.03, z=480.25] died: death.attack.magic.item
-[21:23:34] [Server thread/INFO]: Named entity bwk['Stormcaller'/3192, l='ServerLevel[world]', x=223.76, y=110.00, z=476.95] died: Stormcaller was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:23:34] [Server thread/INFO]: Named entity bwo['Wraith'/3189, l='ServerLevel[world]', x=239.91, y=109.00, z=482.70] died: Wraith was slain by Stormcaller
-[21:23:35] [Server thread/INFO]: Named entity bwq['Void Imp'/3185, l='ServerLevel[world]', x=227.73, y=110.56, z=479.78] died: death.attack.magic.item
-[21:23:36] [Server thread/INFO]: Named entity bwk['Stormcaller'/3191, l='ServerLevel[world]', x=246.40, y=109.00, z=484.48] died: Stormcaller was shot by Wraith
-[21:23:38] [Server thread/INFO]: Named entity bwk['Stormcaller'/3195, l='ServerLevel[world]', x=229.46, y=109.06, z=476.54] died: Stormcaller was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:23:39] [Server thread/INFO]: Named entity bwk['Stormcaller'/3193, l='ServerLevel[world]', x=234.20, y=109.06, z=479.20] died: Stormcaller was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:23:51] [Server thread/INFO]: Named entity brm['Storm Wisp'/3272, l='ServerLevel[world]', x=233.90, y=111.20, z=480.37] died: death.attack.magic.item
-[21:23:53] [Server thread/INFO]: Named entity brm['Storm Wisp'/3275, l='ServerLevel[world]', x=241.01, y=109.45, z=475.39] died: death.attack.magic.item
-[21:23:53] [Server thread/INFO]: Named entity bwk['Stormcaller'/3147, l='ServerLevel[world]', x=222.65, y=109.06, z=478.50] died: Stormcaller was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:23:54] [Server thread/INFO]: Named entity bwo['Wraith'/3188, l='ServerLevel[world]', x=233.14, y=109.00, z=473.77] died: Wraith burned to death
-[21:24:00] [Server thread/INFO]: Named entity bwo['Wraith'/3187, l='ServerLevel[world]', x=233.38, y=109.00, z=481.42] died: Wraith was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:24:02] [Server thread/INFO]: Named entity bwq['Void Imp'/3182, l='ServerLevel[world]', x=226.81, y=126.94, z=441.30] died: Void Imp starved to death
-[21:24:04] [Server thread/INFO]: Named entity bwq['Void Imp'/3186, l='ServerLevel[world]', x=248.77, y=105.96, z=453.98] died: Void Imp starved to death
-[21:24:13] [Server thread/INFO]: Named entity bvo['Lightning Elemental'/3343, l='ServerLevel[world]', x=271.44, y=109.06, z=478.35] died: Lightning Elemental was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:25:10] [Server thread/INFO]: Named entity bwq['Void Imp'/3401, l='ServerLevel[world]', x=211.52, y=-137.56, z=460.44] died: Void Imp was killed
-[21:25:22] [Server thread/INFO]: Named entity bwq['Void Imp'/3486, l='ServerLevel[world]', x=211.75, y=119.91, z=457.51] died: Void Imp was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:25:28] [Server thread/INFO]: Named entity bwt['☆ Crystal Keeper ☆'/127, l='ServerLevel[world]', x=210.60, y=-115.00, z=455.00] died: ☆ Crystal Keeper ☆ was killed
-[21:25:35] [Server thread/INFO]: Named entity bwq['Void Imp'/3480, l='ServerLevel[world]', x=211.05, y=-137.59, z=462.04] died: Void Imp was killed whilst fighting Danielcf37
-[21:25:40] [Server thread/INFO]: Named entity bwq['Void Imp'/3433, l='ServerLevel[world]', x=215.19, y=111.90, z=477.96] died: Void Imp starved to death
-[21:25:46] [Server thread/INFO]: Named entity bwk['Charged Bones'/3411, l='ServerLevel[world]', x=223.80, y=109.06, z=478.50] died: Charged Bones was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:25:51] [Server thread/INFO]: Named entity bwk['Charged Bones'/132, l='ServerLevel[world]', x=237.60, y=107.00, z=466.67] died: Charged Bones was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:26:04] [Server thread/INFO]: Named entity bwk['Charged Bones'/3511, l='ServerLevel[world]', x=216.51, y=109.00, z=491.38] died: Charged Bones was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:26:52] [Server thread/INFO]: Named entity bwk['Charged Bones'/92, l='ServerLevel[world]', x=175.58, y=85.00, z=479.43] died: Charged Bones was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:26:53] [Server thread/INFO]: Named entity bwo['☆ Herald of Lightning ☆'/3629, l='ServerLevel[world]', x=176.42, y=85.00, z=478.69] died: ☆ Herald of Lightning ☆ was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:27:09] [Server thread/INFO]: Named entity bwk['Stormcaller'/95, l='ServerLevel[world]', x=194.41, y=88.00, z=473.69] died: Stormcaller was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:27:10] [Server thread/INFO]: Named entity bwq['Void Imp'/3665, l='ServerLevel[world]', x=189.63, y=-171.18, z=476.24] died: Void Imp was killed
-[21:27:15] [Server thread/INFO]: Named entity brm['Storm Wisp'/3684, l='ServerLevel[world]', x=193.90, y=-171.56, z=482.56] died: Storm Wisp was killed whilst fighting Danielcf37
-[21:27:18] [Server thread/INFO]: Named entity bwq['Void Imp'/3709, l='ServerLevel[world]', x=196.63, y=-168.44, z=487.32] died: Void Imp was killed
-[21:27:29] [Server thread/INFO]: Named entity bwq['Void Imp'/3725, l='ServerLevel[world]', x=186.84, y=-170.54, z=454.26] died: Void Imp was killed
-[21:27:41] [Server thread/INFO]: Named entity bwq['Void Imp'/3671, l='ServerLevel[world]', x=194.09, y=88.34, z=474.99] died: Void Imp starved to death
-[21:27:41] [Server thread/INFO]: Named entity bwq['Void Imp'/3745, l='ServerLevel[world]', x=182.67, y=-170.60, z=459.07] died: Void Imp was killed
-[21:27:42] [Server thread/INFO]: Danielcf37 was slain by Void Imp
-[21:27:42] [Server thread/INFO]: Named entity bwq['Void Imp'/3726, l='ServerLevel[world]', x=182.88, y=-172.22, z=458.99] died: Void Imp was killed
-[21:28:05] [Server thread/INFO]: Named entity bwq['Void Imp'/3705, l='ServerLevel[world]', x=188.47, y=88.41, z=431.36] died: Void Imp starved to death
-[21:28:06] [Server thread/INFO]: Danielcf37 was slain by ☆ Crystal Keeper ☆
-[21:28:27] [Server thread/WARN]: UUID of added entity already exists: buy['Glow Item Frame'/3990, l='ServerLevel[world]', x=-53.50, y=171.03, z=283.50]
-[21:28:43] [Server thread/INFO]: Named entity bwq['Void Imp'/3874, l='ServerLevel[world]', x=183.26, y=-172.71, z=470.42] died: Void Imp was killed
-[21:28:50] [Server thread/INFO]: Named entity bwq['Void Imp'/3757, l='ServerLevel[world]', x=183.40, y=88.22, z=469.05] died: Void Imp starved to death whilst fighting Danielcf37
-[21:28:51] [Server thread/INFO]: Named entity bwq['Void Imp'/3753, l='ServerLevel[world]', x=188.92, y=89.55, z=468.08] died: Void Imp starved to death
-[21:28:56] [Server thread/INFO]: Named entity bwq['Void Imp'/4159, l='ServerLevel[world]', x=191.65, y=-167.68, z=483.49] died: Void Imp was killed whilst fighting Danielcf37
-[21:29:01] [Server thread/INFO]: Named entity bwq['Void Imp'/3873, l='ServerLevel[world]', x=190.38, y=91.62, z=478.39] died: Void Imp starved to death
-[21:29:05] [Server thread/INFO]: Named entity bwq['Void Imp'/4160, l='ServerLevel[world]', x=195.36, y=-171.38, z=476.84] died: Void Imp was killed
-[21:29:08] [Server thread/INFO]: Named entity bwq['Void Imp'/4165, l='ServerLevel[world]', x=194.56, y=-171.68, z=477.56] died: Void Imp was killed
-[21:29:13] [Server thread/INFO]: Named entity bwq['Void Imp'/4144, l='ServerLevel[world]', x=194.39, y=86.83, z=480.03] died: Void Imp was slain by Danielcf37
-[21:29:18] [Server thread/INFO]: Named entity bwq['Void Imp'/4205, l='ServerLevel[world]', x=202.02, y=-170.99, z=468.19] died: Void Imp was killed
-[21:29:22] [Server thread/INFO]: Named entity bwq['Void Imp'/4217, l='ServerLevel[world]', x=198.57, y=-170.89, z=472.40] died: Void Imp was killed
-[21:29:30] [Server thread/INFO]: Named entity bwq['Void Imp'/4222, l='ServerLevel[world]', x=199.05, y=-172.82, z=473.71] died: Void Imp was killed
-[21:29:32] [Server thread/INFO]: Named entity bwq['Void Imp'/4236, l='ServerLevel[world]', x=195.35, y=-170.58, z=476.31] died: Void Imp was killed
-[21:29:43] [Server thread/INFO]: Named entity bwq['Void Imp'/4175, l='ServerLevel[world]', x=154.18, y=87.35, z=456.11] died: Void Imp starved to death
-[21:29:48] [Server thread/INFO]: Named entity bwq['Void Imp'/4252, l='ServerLevel[world]', x=201.80, y=90.26, z=484.66] died: Void Imp was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:29:48] [Server thread/INFO]: Named entity bwq['Void Imp'/4237, l='ServerLevel[world]', x=202.55, y=-170.62, z=484.04] died: Void Imp was killed
-[21:29:53] [Server thread/INFO]: Named entity bwq['Void Imp'/4216, l='ServerLevel[world]', x=183.38, y=88.18, z=469.04] died: Void Imp starved to death
-[21:30:03] [Server thread/INFO]: Named entity bwq['Void Imp'/4259, l='ServerLevel[world]', x=193.94, y=-173.85, z=476.16] died: Void Imp was killed
-[21:30:03] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=193, y=82, z=473} gu{x=194, y=82, z=474}
-[21:30:05] [Server thread/INFO]: Named entity bwq['Void Imp'/4253, l='ServerLevel[world]', x=194.38, y=-175.39, z=476.15] died: Void Imp was killed
-[21:30:06] [Server thread/INFO]: Named entity bwq['Void Imp'/4258, l='ServerLevel[world]', x=193.33, y=88.30, z=475.10] died: Void Imp was slain by Danielcf37 using [Overseer's Netherite Pickaxe of Detonation]
-[21:30:31] [Server thread/INFO]: Named entity bwt['☆ Crystal Keeper ☆'/56, l='ServerLevel[world]', x=194.12, y=-118.14, z=475.00] died: ☆ Crystal Keeper ☆ was killed
-[21:30:40] [Server thread/INFO]: Named entity bwq['Void Imp'/4281, l='ServerLevel[world]', x=194.99, y=-170.69, z=463.93] died: Void Imp was killed
-[21:30:40] [Server thread/INFO]: Named entity bwq['Void Imp'/4263, l='ServerLevel[world]', x=193.92, y=2.35, z=475.03] died: Void Imp starved to death
-[21:30:43] [Server thread/INFO]: Named entity bwq['Void Imp'/4273, l='ServerLevel[world]', x=176.24, y=88.51, z=476.78] died: Void Imp starved to death
-[21:30:44] [Server thread/INFO]: Named entity bwq['Void Imp'/4282, l='ServerLevel[world]', x=197.61, y=-171.93, z=465.93] died: Void Imp was killed
-[21:30:45] [Server thread/INFO]: Named entity bwq['Void Imp'/4314, l='ServerLevel[world]', x=193.39, y=92.04, z=462.33] died: Void Imp was shot by Danielcf37 using [Watcher's Bow of Healing]
-[21:30:48] [Server thread/INFO]: Named entity bwq['Void Imp'/4358, l='ServerLevel[world]', x=196.16, y=88.62, z=469.25] died: Void Imp was shot by Danielcf37 using [Watcher's Bow of Healing]
-[21:31:04] [Server thread/INFO]: Named entity bwq['Void Imp'/4393, l='ServerLevel[world]', x=186.00, y=-171.38, z=469.41] died: Void Imp was killed
-[21:31:12] [Server thread/INFO]: Named entity bwq['Void Imp'/4324, l='ServerLevel[world]', x=183.38, y=88.17, z=469.05] died: Void Imp starved to death
-[21:31:17] [Server thread/INFO]: Named entity bwq['Void Imp'/4436, l='ServerLevel[world]', x=184.21, y=-176.55, z=467.76] died: Void Imp was killed
-[21:31:18] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=184, y=82, z=468} gu{x=183, y=81, z=468}
-[21:31:18] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=184, y=82, z=468} gu{x=183, y=81, z=468}
-[21:31:27] [Server thread/INFO]: Named entity bwq['Void Imp'/4378, l='ServerLevel[world]', x=183.39, y=84.35, z=469.06] died: Void Imp starved to death whilst fighting Danielcf37
-[21:31:28] [Server thread/INFO]: Named entity bwq['Void Imp'/4485, l='ServerLevel[world]', x=184.85, y=-175.71, z=469.25] died: Void Imp was killed
-[21:31:38] [Server thread/INFO]: Named entity bwt['☆ Crystal Keeper ☆'/105, l='ServerLevel[world]', x=183.59, y=-117.82, z=468.49] died: ☆ Crystal Keeper ☆ was killed
-[21:31:52] [Server thread/INFO]: Named entity bwk['Charged Bones'/3699, l='ServerLevel[world]', x=215.25, y=109.36, z=474.64] died: Charged Bones was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:32:12] [Server thread/INFO]: Named entity bwq['Void Imp'/4498, l='ServerLevel[world]', x=167.67, y=121.95, z=478.09] died: Void Imp starved to death
-[21:32:12] [Server thread/INFO]: Named entity bwq['Void Imp'/4557, l='ServerLevel[world]', x=290.52, y=-138.80, z=482.01] died: Void Imp was killed
-[21:32:18] [Server thread/INFO]: Named entity bwq['Void Imp'/4555, l='ServerLevel[world]', x=282.75, y=-146.17, z=477.25] died: Void Imp was killed
-[21:32:21] [Server thread/INFO]: Named entity bwq['Void Imp'/4556, l='ServerLevel[world]', x=285.48, y=112.28, z=477.80] died: death.attack.magic.item
-[21:32:22] [Server thread/INFO]: Named entity bwq['Void Imp'/4570, l='ServerLevel[world]', x=278.11, y=107.74, z=477.06] died: death.attack.magic.item
-[21:32:31] [Server thread/INFO]: Named entity bwq['Void Imp'/4617, l='ServerLevel[world]', x=286.88, y=-142.18, z=477.06] died: Void Imp was killed
-[21:32:41] [Server thread/INFO]: Named entity bwq['Void Imp'/4644, l='ServerLevel[world]', x=286.80, y=-142.16, z=477.61] died: Void Imp was killed
-[21:32:43] [Server thread/INFO]: Named entity bwt['☆ Crystal Keeper ☆'/4558, l='ServerLevel[world]', x=288.82, y=-118.82, z=477.99] died: ☆ Crystal Keeper ☆ was killed
-[21:33:11] [Server thread/INFO]: Named entity bvo['Lightning Elemental'/4662, l='ServerLevel[world]', x=306.15, y=121.90, z=476.65] died: death.attack.magic.item
-[21:33:14] [Server thread/INFO]: Named entity bvy['Harbinger'/4661, l='ServerLevel[world]', x=300.58, y=-169.63, z=485.01] died: Harbinger was killed
-[21:33:29] [Server thread/INFO]: Named entity brm['Storm Wisp'/4732, l='ServerLevel[world]', x=291.32, y=-127.03, z=463.78] died: Storm Wisp was killed whilst fighting Danielcf37
-[21:33:34] [Server thread/INFO]: Named entity bwk['Stormcaller'/4711, l='ServerLevel[world]', x=288.03, y=130.00, z=462.70] died: Stormcaller was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:33:35] [Server thread/INFO]: Named entity brm['Storm Wisp'/4750, l='ServerLevel[world]', x=289.57, y=-127.98, z=462.74] died: Storm Wisp was killed whilst fighting Danielcf37
-[21:33:35] [Server thread/INFO]: Named entity bwk['Stormcaller'/4712, l='ServerLevel[world]', x=288.67, y=130.00, z=463.55] died: Stormcaller was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:33:35] [Server thread/INFO]: Named entity brm['Storm Wisp'/4760, l='ServerLevel[world]', x=287.98, y=132.46, z=459.80] died: Storm Wisp was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:33:36] [Server thread/INFO]: Named entity brm['Storm Wisp'/4758, l='ServerLevel[world]', x=288.12, y=-125.67, z=461.55] died: Storm Wisp was killed whilst fighting Danielcf37
-[21:33:37] [Server thread/INFO]: Named entity brm['Storm Wisp'/4762, l='ServerLevel[world]', x=289.26, y=131.17, z=460.95] died: Storm Wisp was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:33:41] [Server thread/INFO]: Named entity bvy['Harbinger'/4734, l='ServerLevel[world]', x=295.05, y=-165.62, z=480.01] died: Harbinger was killed whilst fighting Danielcf37
-[21:34:01] [Server thread/INFO]: Named entity bvy['Harbinger'/4837, l='ServerLevel[world]', x=296.35, y=-166.98, z=477.43] died: Harbinger was killed
-[21:34:03] [Server thread/INFO]: Named entity bwk['Charged Bones'/4835, l='ServerLevel[world]', x=283.00, y=109.00, z=473.16] died: Charged Bones was doomed to fall by Wraith
-[21:34:04] [Server thread/WARN]: Danielcf37 moved wrongly!
-[21:34:11] [Server thread/INFO]: Named entity bvy['Harbinger'/4851, l='ServerLevel[world]', x=287.31, y=-160.67, z=474.61] died: Harbinger was killed
-[21:34:12] [Server thread/INFO]: Named entity bvy['Harbinger'/4872, l='ServerLevel[world]', x=291.75, y=-147.85, z=486.35] died: Harbinger was killed whilst fighting Danielcf37
-[21:34:16] [Server thread/INFO]: Named entity bvy['Harbinger'/4864, l='ServerLevel[world]', x=307.71, y=-166.40, z=479.51] died: Harbinger was killed whilst fighting Danielcf37
-[21:34:42] [Server thread/INFO]: Named entity bvy['Harbinger'/4921, l='ServerLevel[world]', x=288.90, y=-168.47, z=479.27] died: Harbinger was killed whilst fighting Danielcf37
-[21:34:54] [Server thread/INFO]: Named entity bvy['Harbinger'/4929, l='ServerLevel[world]', x=310.04, y=-174.42, z=482.40] died: Harbinger was killed
-[21:34:55] [Server thread/INFO]: Named entity bwk['Charged Bones'/4829, l='ServerLevel[world]', x=290.50, y=130.04, z=467.49] died: Charged Bones was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:34:56] [Server thread/INFO]: Named entity bvy['Harbinger'/4930, l='ServerLevel[world]', x=298.99, y=-166.99, z=476.44] died: Harbinger was killed
-[21:35:00] [Server thread/INFO]: Named entity bwk['Charged Bones'/4831, l='ServerLevel[world]', x=284.15, y=85.00, z=468.03] died: Charged Bones was doomed to fall
-[21:35:07] [Server thread/INFO]: Named entity bwk['Charged Bones'/4833, l='ServerLevel[world]', x=278.61, y=139.00, z=480.39] died: Charged Bones was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:35:11] [Server thread/INFO]: Named entity bvy['Harbinger'/4957, l='ServerLevel[world]', x=296.83, y=146.81, z=467.92] died: death.attack.magic.item
-[21:35:14] [Server thread/INFO]: Named entity bvo['Lightning Elemental'/4859, l='ServerLevel[world]', x=281.62, y=139.00, z=477.94] died: Lightning Elemental was shot by Danielcf37 using [Watcher's Bow of Healing]
-[21:35:28] [Server thread/INFO]: Named entity bvy['Harbinger'/5000, l='ServerLevel[world]', x=290.82, y=145.10, z=481.78] died: Harbinger was shot by Danielcf37 using [Watcher's Bow of Healing]
-[21:35:47] [Server thread/INFO]: Named entity bvo['Lightning Elemental'/5014, l='ServerLevel[world]', x=293.04, y=149.54, z=490.50] died: Lightning Elemental was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:35:55] [Server thread/INFO]: Named entity bvo['Lightning Elemental'/5012, l='ServerLevel[world]', x=299.47, y=154.00, z=488.36] died: Lightning Elemental was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:35:56] [Server thread/INFO]: Named entity bvo['Lightning Elemental'/5013, l='ServerLevel[world]', x=299.36, y=154.00, z=489.63] died: Lightning Elemental was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:36:02] [Server thread/INFO]: Named entity bwk['Charged Bones'/5019, l='ServerLevel[world]', x=304.48, y=154.00, z=480.64] died: Charged Bones was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:36:03] [Server thread/INFO]: Named entity bwk['Charged Bones'/5015, l='ServerLevel[world]', x=304.01, y=154.00, z=482.94] died: Charged Bones was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:36:07] [Server thread/INFO]: Named entity bwk['Charged Bones'/5017, l='ServerLevel[world]', x=303.25, y=154.00, z=472.66] died: death.attack.magic.item
-[21:36:14] [Server thread/INFO]: Named entity bvy['Harbinger'/5050, l='ServerLevel[world]', x=300.26, y=-137.22, z=487.26] died: Harbinger was killed
-[21:36:18] [Server thread/INFO]: Named entity bwk['Charged Bones'/4849, l='ServerLevel[world]', x=281.67, y=154.00, z=473.71] died: death.attack.magic.item
-[21:36:26] [Server thread/INFO]: Named entity bwk['Stormcaller'/5124, l='ServerLevel[world]', x=288.28, y=154.00, z=477.13] died: Stormcaller was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:36:27] [Server thread/INFO]: Named entity bwk['Stormcaller'/5125, l='ServerLevel[world]', x=289.46, y=154.36, z=478.67] died: Stormcaller was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:36:27] [Server thread/INFO]: Named entity brm['Storm Wisp'/5138, l='ServerLevel[world]', x=289.22, y=-103.12, z=476.88] died: Storm Wisp was killed whilst fighting Danielcf37
-[21:36:28] [Server thread/INFO]: Named entity brm['Storm Wisp'/5140, l='ServerLevel[world]', x=289.53, y=155.64, z=477.87] died: Storm Wisp was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:36:28] [Server thread/INFO]: Named entity brm['Storm Wisp'/5136, l='ServerLevel[world]', x=289.71, y=155.06, z=475.92] died: Storm Wisp was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:36:29] [Server thread/INFO]: Named entity bwk['Charged Bones'/4847, l='ServerLevel[world]', x=292.20, y=154.00, z=480.26] died: Charged Bones was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:36:33] [Server thread/INFO]: Named entity bwq['Void Imp'/5053, l='ServerLevel[world]', x=294.83, y=159.23, z=482.77] died: Void Imp starved to death
-[21:36:36] [Server thread/INFO]: Named entity bwq['Void Imp'/5052, l='ServerLevel[world]', x=297.38, y=-100.76, z=475.66] died: Void Imp was killed
-[21:36:39] [Server thread/INFO]: Named entity bwq['Void Imp'/5054, l='ServerLevel[world]', x=294.32, y=160.08, z=481.69] died: Void Imp starved to death
-[21:36:39] [Server thread/INFO]: Named entity brm['Storm Wisp'/5148, l='ServerLevel[world]', x=296.53, y=155.19, z=476.81] died: Storm Wisp was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:36:59] [Server thread/INFO]: Named entity bwk['Charged Bones'/5084, l='ServerLevel[world]', x=300.58, y=168.00, z=479.47] died: Charged Bones was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:37:00] [Server thread/INFO]: Named entity bwk['Charged Bones'/5086, l='ServerLevel[world]', x=299.65, y=168.00, z=479.76] died: Charged Bones was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:37:00] [Server thread/INFO]: Named entity bwk['Charged Bones'/5088, l='ServerLevel[world]', x=298.77, y=168.00, z=481.18] died: Charged Bones was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:37:14] [Server thread/INFO]: Named entity bvy['Harbinger'/5132, l='ServerLevel[world]', x=302.32, y=-137.62, z=481.60] died: Harbinger was killed
-[21:37:18] [Server thread/INFO]: Named entity bwk['Stormcaller'/5208, l='ServerLevel[world]', x=290.87, y=168.00, z=470.55] died: Stormcaller was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:37:20] [Server thread/INFO]: Named entity bwk['Stormcaller'/5210, l='ServerLevel[world]', x=291.61, y=168.00, z=470.88] died: Stormcaller was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:37:20] [Server thread/INFO]: Named entity brm['Storm Wisp'/5225, l='ServerLevel[world]', x=293.96, y=-92.00, z=471.34] died: Storm Wisp was killed whilst fighting Danielcf37
-[21:37:20] [Server thread/INFO]: Named entity bwk['Stormcaller'/5209, l='ServerLevel[world]', x=292.80, y=168.00, z=471.79] died: Stormcaller was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:37:21] [Server thread/INFO]: Named entity brm['Storm Wisp'/5231, l='ServerLevel[world]', x=292.25, y=168.72, z=471.08] died: Storm Wisp was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:37:22] [Server thread/INFO]: Named entity brm['Storm Wisp'/5234, l='ServerLevel[world]', x=294.06, y=-91.07, z=471.77] died: Storm Wisp was killed whilst fighting Danielcf37
-[21:37:27] [Server thread/INFO]: Named entity bvy['Harbinger'/5186, l='ServerLevel[world]', x=288.62, y=-117.45, z=469.05] died: Harbinger was killed whilst fighting Danielcf37
-[21:37:28] [Server thread/INFO]: Named entity bvy['Harbinger'/5219, l='ServerLevel[world]', x=289.42, y=173.99, z=483.81] died: Harbinger was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:37:36] [Server thread/INFO]: Named entity bvy['Harbinger'/5190, l='ServerLevel[world]', x=299.79, y=-108.63, z=484.96] died: Harbinger was killed whilst fighting Danielcf37
-[21:37:36] [Server thread/INFO]: Named entity bvy['Harbinger'/5268, l='ServerLevel[world]', x=292.57, y=-108.58, z=489.74] died: Harbinger was killed whilst fighting Danielcf37
-[21:37:50] [Server thread/INFO]: Named entity bvy['Harbinger'/5314, l='ServerLevel[world]', x=300.30, y=-127.60, z=479.26] died: Harbinger was killed
-[21:37:54] [Server thread/INFO]: Named entity bvy['Harbinger'/5321, l='ServerLevel[world]', x=299.57, y=162.15, z=472.43] died: Harbinger was shot by Danielcf37 using [Watcher's Bow of Healing]
-[21:38:40] [Server thread/INFO]: Named entity bvy['Harbinger'/5422, l='ServerLevel[world]', x=303.63, y=-136.36, z=499.83] died: Harbinger was killed whilst fighting Danielcf37
-[21:38:49] [Server thread/INFO]: Named entity bwk['Charged Bones'/5409, l='ServerLevel[world]', x=273.50, y=139.00, z=472.50] died: Charged Bones was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:39:56] [Server thread/INFO]: Named entity bvy['Harbinger'/5515, l='ServerLevel[world]', x=307.43, y=100.65, z=468.43] died: Harbinger was shot by Danielcf37 using [Watcher's Bow of Healing]
-[21:40:16] [Server thread/INFO]: Named entity bvo['Lightning Elemental'/5530, l='ServerLevel[world]', x=307.61, y=85.50, z=474.36] died: Lightning Elemental was shot by Danielcf37 using [Watcher's Bow of Healing]
-[21:40:21] [Server thread/INFO]: Named entity bvy['Harbinger'/5567, l='ServerLevel[world]', x=292.80, y=95.94, z=462.43] died: Harbinger was shot by Danielcf37 using [Watcher's Bow of Healing]
-[21:40:45] [Server thread/INFO]: Named entity bvo['Lightning Elemental'/5578, l='ServerLevel[world]', x=310.70, y=87.07, z=484.11] died: death.attack.magic.item
-[21:40:47] [Server thread/INFO]: Named entity bvy['Harbinger'/5590, l='ServerLevel[world]', x=309.99, y=89.77, z=485.57] died: Harbinger was burnt to a crisp whilst fighting Danielcf37
-[21:40:51] [Server thread/INFO]: Named entity bvo['Lightning Elemental'/5577, l='ServerLevel[world]', x=309.33, y=87.00, z=484.60] died: Lightning Elemental was shot by Danielcf37 using [Watcher's Bow of Healing]
-[21:40:55] [Server thread/INFO]: Named entity bvy['Harbinger'/5640, l='ServerLevel[world]', x=310.57, y=89.27, z=469.43] died: Harbinger was shot by Danielcf37 using [Watcher's Bow of Healing]
-[21:42:25] [Server thread/INFO]: Named entity bwk['Charged Bones'/5730, l='ServerLevel[world]', x=191.50, y=109.00, z=534.50] died: Charged Bones was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:42:38] [Server thread/INFO]: Named entity bwo['Wraith'/5765, l='ServerLevel[world]', x=200.10, y=109.00, z=552.27] died: Wraith was slain by Stormcaller
-[21:42:40] [Server thread/INFO]: Named entity brm['Storm Wisp'/5773, l='ServerLevel[world]', x=188.16, y=109.51, z=542.26] died: death.attack.magic.item
-[21:42:40] [Server thread/INFO]: Named entity bwk['Stormcaller'/5755, l='ServerLevel[world]', x=189.49, y=109.00, z=541.34] died: death.attack.magic.item
-[21:42:43] [Server thread/INFO]: Named entity bwo['Wraith'/5764, l='ServerLevel[world]', x=196.59, y=109.00, z=548.26] died: death.attack.magic.item
-[21:42:43] [Server thread/INFO]: Named entity bwk['Stormcaller'/5748, l='ServerLevel[world]', x=190.33, y=109.00, z=544.22] died: Stormcaller was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:42:57] [Server thread/INFO]: Named entity bwo['☆ Herald of Lightning ☆'/5751, l='ServerLevel[world]', x=193.85, y=109.00, z=547.90] died: ☆ Herald of Lightning ☆ was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:43:06] [Server thread/INFO]: Named entity bwq['Void Imp'/5741, l='ServerLevel[world]', x=205.23, y=102.81, z=541.94] died: Void Imp starved to death
-[21:43:06] [Server thread/INFO]: Named entity bwq['Void Imp'/5742, l='ServerLevel[world]', x=179.35, y=80.40, z=506.71] died: Void Imp starved to death
-[21:43:13] [Server thread/INFO]: Named entity bvo['Lightning Elemental'/5891, l='ServerLevel[world]', x=184.30, y=109.00, z=554.28] died: Lightning Elemental was shot by Danielcf37 using [Watcher's Bow of Healing]
-[21:43:15] [Server thread/INFO]: Named entity bwk['Stormcaller'/5749, l='ServerLevel[world]', x=185.56, y=109.00, z=550.70] died: Stormcaller was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:43:16] [Server thread/INFO]: Named entity brm['Storm Wisp'/5912, l='ServerLevel[world]', x=185.66, y=-150.35, z=552.31] died: Storm Wisp was killed whilst fighting Danielcf37
-[21:43:23] [Server thread/INFO]: Named entity bwk['Charged Bones'/5905, l='ServerLevel[world]', x=183.22, y=109.00, z=575.16] died: death.attack.magic.item
-[21:43:23] [Server thread/INFO]: Named entity bwk['Charged Bones'/5907, l='ServerLevel[world]', x=184.49, y=109.00, z=577.01] died: death.attack.magic.item
-[21:43:23] [Server thread/INFO]: Named entity bwk['Charged Bones'/5903, l='ServerLevel[world]', x=181.93, y=109.00, z=576.48] died: death.attack.magic.item
-[21:43:37] [Server thread/INFO]: Named entity bvy['Harbinger'/6009, l='ServerLevel[world]', x=198.82, y=-185.41, z=571.69] died: Harbinger was killed
-[21:43:39] [Server thread/INFO]: Named entity bwq['Void Imp'/5953, l='ServerLevel[world]', x=190.66, y=110.19, z=561.84] died: death.attack.magic.item
-[21:43:39] [Server thread/INFO]: Named entity bwk['Charged Bones'/5957, l='ServerLevel[world]', x=192.45, y=109.00, z=565.67] died: death.attack.magic.item
-[21:43:39] [Server thread/INFO]: Named entity bwk['Charged Bones'/5963, l='ServerLevel[world]', x=192.32, y=109.00, z=566.06] died: death.attack.magic.item
-[21:43:39] [Server thread/INFO]: Named entity bwq['Void Imp'/5954, l='ServerLevel[world]', x=192.06, y=111.37, z=562.71] died: death.attack.magic.item
-[21:43:39] [Server thread/INFO]: Named entity bwk['Charged Bones'/5961, l='ServerLevel[world]', x=191.50, y=109.00, z=563.40] died: death.attack.magic.item
-[21:43:40] [Server thread/INFO]: Named entity bwk['Charged Bones'/5959, l='ServerLevel[world]', x=192.50, y=109.00, z=562.12] died: death.attack.magic.item
-[21:43:51] [Server thread/INFO]: Named entity bwq['Void Imp'/5932, l='ServerLevel[world]', x=189.94, y=109.14, z=533.67] died: Void Imp was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:43:51] [Server thread/INFO]: Named entity bwq['Void Imp'/5956, l='ServerLevel[world]', x=188.49, y=112.30, z=532.95] died: Void Imp was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:43:53] [Server thread/INFO]: Named entity bvz['☆ Overlord ☆'/5967, l='ServerLevel[world]', x=188.52, y=109.00, z=532.10] died: ☆ Overlord ☆ was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:43:55] [Server thread/INFO]: Named entity bwo['☆ Herald of Lightning ☆'/5946, l='ServerLevel[world]', x=188.51, y=109.00, z=532.97] died: ☆ Herald of Lightning ☆ was killed whilst fighting Danielcf37
-[21:44:00] [Server thread/INFO]: Named entity bwq['Void Imp'/5955, l='ServerLevel[world]', x=196.76, y=122.84, z=598.11] died: Void Imp starved to death
-[21:44:09] [Server thread/INFO]: Named entity bvy['Harbinger'/6200, l='ServerLevel[world]', x=197.53, y=-189.53, z=564.19] died: Harbinger was killed
-[21:44:17] [Server thread/INFO]: Named entity bvy['Harbinger'/6217, l='ServerLevel[world]', x=186.23, y=-182.85, z=580.93] died: Harbinger was killed
-[21:44:20] [Server thread/INFO]: Named entity bwk['Charged Bones'/6149, l='ServerLevel[world]', x=193.42, y=109.00, z=567.28] died: Charged Bones was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:44:23] [Server thread/INFO]: Named entity bvy['Harbinger'/6238, l='ServerLevel[world]', x=189.87, y=114.95, z=572.57] died: Harbinger was shot by Danielcf37 using [Watcher's Bow of Healing]
-[21:44:25] [Server thread/INFO]: Named entity bvo['Lightning Elemental'/6267, l='ServerLevel[world]', x=187.84, y=109.00, z=567.16] died: Lightning Elemental was shot by Danielcf37 using [Watcher's Bow of Healing]
-[21:44:38] [Server thread/INFO]: Named entity bvy['Harbinger'/6271, l='ServerLevel[world]', x=190.72, y=117.15, z=581.82] died: Harbinger was shot by Danielcf37 using [Watcher's Bow of Healing]
-[21:44:52] [Server thread/INFO]: Named entity bwn['Abyssal Spider'/6294, l='ServerLevel[world]', x=235.50, y=126.00, z=664.50] died: Abyssal Spider suffocated in a wall
-[21:44:53] [Server thread/INFO]: Named entity brm['Storm Wasp'/6335, l='ServerLevel[world]', x=189.80, y=-137.00, z=601.18] died: Storm Wasp was killed whilst fighting Danielcf37
-[21:44:53] [Server thread/INFO]: Named entity bvo['Lightning Elemental'/6319, l='ServerLevel[world]', x=190.49, y=123.00, z=604.45] died: Lightning Elemental was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:44:54] [Server thread/INFO]: Named entity brm['Storm Wasp'/6334, l='ServerLevel[world]', x=188.09, y=-137.86, z=602.98] died: Storm Wasp was killed whilst fighting Danielcf37
-[21:45:07] [Server thread/INFO]: Named entity brm['Storm Wasp'/6336, l='ServerLevel[world]', x=189.41, y=128.12, z=587.22] died: Storm Wasp was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:45:09] [Server thread/INFO]: Named entity bwk['Charged Bones'/5990, l='ServerLevel[world]', x=189.50, y=128.00, z=583.85] died: Charged Bones was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:45:10] [Server thread/INFO]: Named entity bwk['Charged Bones'/5992, l='ServerLevel[world]', x=189.30, y=128.00, z=584.62] died: Charged Bones was blown up by Lightning Elemental
-[21:45:17] [Server thread/INFO]: Named entity bwk['Charged Bones'/6362, l='ServerLevel[world]', x=194.50, y=128.00, z=573.39] died: death.attack.magic.item
-[21:45:29] [Server thread/INFO]: Named entity bwo['Wraith'/6420, l='ServerLevel[world]', x=178.28, y=137.44, z=580.08] died: Wraith was burnt to a crisp whilst fighting Danielcf37
-[21:45:29] [Server thread/INFO]: Named entity bwo['Wraith'/6421, l='ServerLevel[world]', x=180.64, y=137.00, z=580.05] died: Wraith was burnt to a crisp whilst fighting Danielcf37
-[21:45:33] [Server thread/INFO]: Named entity brm['Storm Wasp'/6386, l='ServerLevel[world]', x=192.48, y=132.24, z=574.73] died: death.attack.magic.item
-[21:45:34] [Server thread/INFO]: Named entity bwk['Charged Bones'/6360, l='ServerLevel[world]', x=193.53, y=128.00, z=578.81] died: Charged Bones burned to death
-[21:45:34] [Server thread/INFO]: Named entity bwk['Charged Bones'/6356, l='ServerLevel[world]', x=192.46, y=130.52, z=577.58] died: death.attack.magic.item
-[21:45:34] [Server thread/INFO]: Named entity bwk['Charged Bones'/6358, l='ServerLevel[world]', x=192.60, y=128.54, z=578.43] died: death.attack.magic.item
-[21:45:35] [Server thread/INFO]: Named entity brm['Storm Wasp'/6385, l='ServerLevel[world]', x=191.81, y=129.27, z=579.78] died: death.attack.magic.item
-[21:45:58] [Server thread/INFO]: Named entity brm['Storm Wasp'/6387, l='ServerLevel[world]', x=181.99, y=110.23, z=586.96] died: Storm Wasp was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:46:46] [Server thread/INFO]: Named entity bwo['☆ Herald of Lightning ☆'/6445, l='ServerLevel[world]', x=200.70, y=141.40, z=584.92] died: ☆ Herald of Lightning ☆ was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:46:53] [Server thread/INFO]: Danielcf37 has completed the challenge [Savior]
-[21:46:53] [Server thread/INFO]: Named entity bwk['Charged Bones'/6354, l='ServerLevel[world]', x=183.85, y=137.00, z=585.22] died: Charged Bones was slain by Danielcf37 using [Abyssal Skullcrusher of Gluttony]
-[21:47:09] [Server thread/INFO]: Named entity brm['Storm Wisp'/6674, l='ServerLevel[world]', x=193.05, y=-114.49, z=572.13] died: Storm Wisp was killed whilst fighting Danielcf37
-[21:47:09] [Server thread/INFO]: Named entity bwq['Void Imp'/6653, l='ServerLevel[world]', x=191.57, y=-113.96, z=572.96] died: Void Imp was killed whilst fighting Danielcf37
-[21:47:10] [Server thread/INFO]: Named entity bwq['Void Imp'/6655, l='ServerLevel[world]', x=190.35, y=-114.74, z=573.62] died: Void Imp was killed whilst fighting Danielcf37
-[21:47:10] [Server thread/INFO]: Danielcf37 was killed by magic
-[21:47:23] [Server thread/ERROR]: Display entityNot a string
-[21:47:23] [Server thread/ERROR]: Display entityNot a string
-[21:47:23] [Server thread/ERROR]: Display entityNot a string
-[21:47:39] [Server thread/ERROR]: Display entityNot a string
-[21:48:05] [Server thread/ERROR]: Display entityNot a string
-[21:48:05] [Server thread/ERROR]: Display entityNot a string
-[21:48:05] [Server thread/ERROR]: Display entityNot a string
-[21:48:13] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[21:48:13] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[21:48:13] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[21:48:17] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
-[21:48:17] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
-[21:48:17] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[01:14:06] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01:14:10] [ServerMain/INFO]: Loaded 7 recipes
+[01:14:10] [ServerMain/INFO]: Loaded 1633 advancements
+[01:14:11] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[01:14:11] [Server thread/INFO]: Loading properties
+[01:14:11] [Server thread/INFO]: Default game type: SURVIVAL
+[01:14:11] [Server thread/INFO]: Generating keypair
+[01:14:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:14:11] [Server thread/INFO]: Using epoll channel type
+[01:14:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:14:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:14:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:14:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:14:11] [Server thread/INFO]: Preparing level "world"
+[01:14:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:14:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:14:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:14:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:14:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:14:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:14:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:14:16] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:14:16] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:14:16] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:14:16] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:14:17] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:14:17] [Worker-Main-3/INFO]: Preparing spawn area: 21%
+[01:14:18] [Worker-Main-3/INFO]: Preparing spawn area: 76%
+[01:14:18] [Server thread/INFO]: Time elapsed: 6412 ms
+[01:14:18] [Server thread/INFO]: Done (6.566s)! For help, type "help"
+[01:14:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2571ms or 51 ticks behind
+[01:14:21] [Server thread/WARN]: UUID of added entity already exists: bga['Marker'/39, l='ServerLevel[world]', x=29999999.50, y=100.00, z=27115050.50]
+[01:14:21] [Server thread/WARN]: UUID of added entity already exists: bxe['Piglin'/40, l='ServerLevel[world]', x=659.50, y=5.00, z=508.50]
+[01:14:29] [Server thread/INFO]: TioSkrollex[/127.54.56.198:35811] logged in with entity id 58 at (20.635224748049573, 173.0, 241.20669310554769)
+[01:14:29] [Server thread/INFO]: TioSkrollex joined the game
+[01:19:58] [Server thread/INFO]: Named entity bwk['Charged Bones'/554, l='ServerLevel[world]', x=290.73, y=122.00, z=490.71] died: Charged Bones was killed whilst fighting TioSkrollex
+[01:22:09] [Server thread/INFO]: Danielcf37[/127.133.49.52:51263] logged in with entity id 762 at (20.162981682704583, 170.0, 274.0764892385137)
+[01:22:09] [Server thread/INFO]: Danielcf37 joined the game
+[01:23:17] [Server thread/WARN]: UUID of added entity already exists: buy['Glow Item Frame'/963, l='ServerLevel[world]', x=-53.50, y=171.03, z=283.50]
